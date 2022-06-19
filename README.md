@@ -8,8 +8,9 @@ docker pull dgllib/dgl-ci-gpu
 ```
 
 **2. 컨테이너 실행**
-Docker version 2.0 or later.
+
 ```
+# Docker version 2.0 or later.
 docker run --itd --runtime=nvidia --name dgl_tutorial -p 8888:8888 -v C:\Users\Name\:/workspace dgl-ci-gpu /bin/bash
 ```
 
