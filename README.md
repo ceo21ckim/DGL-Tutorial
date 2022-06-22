@@ -33,4 +33,3 @@ sudo apt-get -y install ipython ipython-notebook
 sudo -H pip install jupyter
 ```
 
-`sudo -H pip install jupyter`에서 오류가 발생하는 경우에는 `sudo -H pip install --upgrade pip`를 먼저 수행한 후 진행하면 설치가 됩니다. 내려받은 `docker image`는 `Ubuntu 16.04` 이기에 위와 같은 방법으로 진행하였습니다.
