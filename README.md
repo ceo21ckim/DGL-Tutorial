@@ -1,5 +1,17 @@
 # DGL
 
+[Document](https://docs.dgl.ai/index.html#getting-started)
+
+## Install DGL
+
+***CPU***
+```
+conda install pytorch torchvision torchaudio cpuonly -c pytorch
+
+conda install -c dglteam dgl
+```
+`DGL`은 `python3.6` 버전 이상에서 사용이 가능합니다. `Pytorch 1.9.0+`, `Apache MXNet 1.6+`, `TensorFlow 2.3+`
+
 
 ## Docker Setting 
 **1. 도커 이미지 불러오기**
