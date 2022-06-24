@@ -8,6 +8,8 @@ GCN : Semi-supervised Classification with Graph Convolutional Networks (ICLR'17)
 
 GraphSAGE : Inductive Representation Learning on Large Graphs (NeuIPS'17) [paper](https://arxiv.org/pdf/1706.02216.pdf)
 
+MPNN : Neural Message Passing for Quantum Chemistry (PMLR'17) [paper](https://arxiv.org/pdf/1704.01212.pdf)
+
 ## Install DGL
 
 ***CPU***
