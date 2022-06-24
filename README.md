@@ -12,59 +12,41 @@ MPNN : Neural Message Passing for Quantum Chemistry (PMLR'17) [paper](https://ar
 
 ## Install DGL
 
-***CPU***
-```
-conda install pytorch torchvision torchaudio cpuonly -c pytorch
-
-conda install -c dglteam dgl
-```
-`DGL`은 `python3.6` 버전 이상에서 사용이 가능합니다. `Pytorch 1.9.0+`, `Apache MXNet 1.6+`, `TensorFlow 2.3+`
-
-
-## Docker Setting 
-**1. 도커 이미지 불러오기**
-
-***GPU***
-```
-docker pull dgllib/dgl-ci-gpu:cu11
+### Docker setting
+**1.Clone this repository**
+``` 
+git clone https://github.com/ceo21ckim/DGL.git
+cd DGL
 ```
 
-***CPU***
+**2.build Dockerfile**
 ```
-docker pull dgllib/dgl-ci-cpu
+docker build --tag [filename]:1.0 .
 ```
+`Dockerfile`을 build해서 사용하고 싶은 경우 원하는 filename을 지정하면 됩니다. 현재 위치에 `Dockerfile`을 같이 두고, 위 명령어를 입력하는 경우 build할 수 있습니다. 
+`Dockerfile`은 `pytorch/pytorch:1.10.0-cuda11.3-cudnn8-runtime`를 내려받아 사용하였습니다. `pytorch` version과 `cuda` version이 다른 경우에는 본인의 환경과 맞게 설정하시면 됩니다. 아래의 환경 세팅은 image name을 `dgl_tutorial:1.0`으로 설정했습니다. 
 
-**2. 컨테이너 실행**
 
-***GPU***
+**3.execute**
+
 ```
 # Docker version 2.0 or later.
-docker run --itd --runtime=nvidia --name dgl_tutorial -p 8888:8888 -v C:\Users\Name\:/workspace dgl-ci-gpu:cu11 /bin/bash
+docker run --itd --runtime=nvidia --name dgl_tuto -p 8888:8888 -v C:\Users\Name\:/workspace dgl_tutorial:1.0 /bin/bash
 ```
 
 ```
 # Docker-ce 19.03 or later
-docker run -itd --gpus all --name dgl_tutorial -p 8888:8888 -v C:\Users\Name\:/workspace dgl-ci-gpu:cu11 /bin/bash
-```
-
-***CPU***
-```
-docker run -itd --name dgl_tutorial -p=8888:8888 -v C:\Users\Name\:/workspace dgl-ci-cpu /bin/bash
+docker run -itd --gpus all --name dgl_tuto -p 8888:8888 -v C:\Users\Name\:/workspace dgl_tutorial:1.0 /bin/bash
 ```
 
 도커의 버전이 `19.03`이거나 이후 버전인 경우에는 `NVIDIA`를 따로 설치하지 않고 `--gpus all`만 사용하더라도 GPU 사용이 가능합니다. `pytorch`의 경우 작업 환경을 `/workspace`로 설정하기 때문에 동일하게 `/workspace`로 지정해주었습니다. port 연결을 통해 localhost에서도 접속이 가능합니다. `https://localhost:8888`
 
 
-**3. 주피터 사용하기**
+**4.Use jupyter notebook**
 ```
-docker exec -it dgl_tutorial bash
+docker exec -it dgl_tuto
 
-pip install --upgrade pip
-
-sudo pip install notebook 
-
-sudo apt-get -y install ipython ipython-notebook
-
-sudo -H pip install jupyter
+jupyter notebook --ip=0.0.0.0 --port=8888 --allow-root
 ```
+`port`는 처음 실행할 때 연결한 `port`를 지정하시면 됩니다. 
 
