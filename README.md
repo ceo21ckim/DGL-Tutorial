@@ -4,7 +4,7 @@ Deep Graph Library(DGL)을 공부 목적으로 정리하고 있습니다. 본 �
 
 ## Paper ##
 
-GCN : [Semi-supervised Classification with Graph Convolutional Networks](https://arxiv.org/pdf/1609.02907.pdf) (ICLR'17) [code](https://github.com/ceo21ckim/DGL/blob/main/GraphConvolution/Implementation.ipynb)
+GCN : Semi-supervised Classification with Graph Convolutional Networks (ICLR'17), [paper](https://arxiv.org/pdf/1609.02907.pdf) [code](https://github.com/ceo21ckim/DGL/blob/main/GraphConvolution/Implementation.ipynb)
 
 ## Install DGL
 
