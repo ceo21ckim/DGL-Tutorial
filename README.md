@@ -4,13 +4,13 @@ Deep Graph Library(DGL)을 공부 목적으로 정리하고 있습니다. 본 �
 
 ## Paper ##
 
-GCN : Semi-supervised Classification with Graph Convolutional Networks (ICLR'17), [paper](https://arxiv.org/pdf/1609.02907.pdf), [code](https://github.com/ceo21ckim/DGL/blob/main/GraphConvolution/Implementation.ipynb)
+GCN : Semi-supervised Classification with Graph Convolutional Networks (ICLR'17), [paper](https://arxiv.org/pdf/1609.02907.pdf), [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/GraphConv/Implementation.ipynb)
 
 GraphSAGE : Inductive Representation Learning on Large Graphs (NeuIPS'17) [paper](https://arxiv.org/pdf/1706.02216.pdf)
 
 MPNN : Neural Message Passing for Quantum Chemistry (PMLR'17) [paper](https://arxiv.org/pdf/1704.01212.pdf)
 
-GCMC : Graph Convolutional Matrix Completion (KDD'18) [paper](https://arxiv.org/pdf/1706.02263.pdf), [code](https://github.com/ceo21ckim/DGL_tutorial/blob/main/GCMC/RecSys(GCMC).ipynb)
+GCMC : Graph Convolutional Matrix Completion (KDD'18) [paper](https://arxiv.org/pdf/1706.02263.pdf), [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/GCMC/RecSys(GCMC).ipynb)
 
 ## Install DGL
 
