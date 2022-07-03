@@ -15,7 +15,7 @@ GCMC : Graph Convolutional Matrix Completion (KDD'18) [paper](https://arxiv.org/
 ## Install DGL
 
 ### Docker setting
-**1.Clone this repository**
+**1.clone this repository**
 ``` 
 git clone https://github.com/ceo21ckim/DGL.git
 cd DGL
