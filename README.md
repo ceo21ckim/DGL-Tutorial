@@ -55,10 +55,10 @@ jupyter notebook --ip=0.0.0.0 --port=8888 --allow-root
 
 ## CS224W
 
-[Application of Graph ML](https://ok-lab.tistory.com/184): 그래프가 어떤 식으로 활용되는지에 대 다룹니다.
+Application of Graph ML: [youtube](https://www.youtube.com/watch?v=aBHC6xzx9YI&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=2), [blog](https://ok-lab.tistory.com/184)
 
-[Choice of Graph Representation](https://ok-lab.tistory.com/185): 그래프의 종류에 대해서 다룹니다.
+Choice of Graph Representation: [youtube](https://www.youtube.com/watch?v=P-m1Qv6-8cI&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=3), [blog](https://ok-lab.tistory.com/185)
 
-[Traditional feature-based methods: Node-level features](https://ok-lab.tistory.com/186): Node-level feature에 대해서 다룹니다. 
+Traditional feature-based methods: Node-level features: [youtube](https://www.youtube.com/watch?v=3IS7UhNMQ3U&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=4), [blog](https://ok-lab.tistory.com/186) 
 
-[Traditional feature-based methods: Link-level features](https://ok-lab.tistory.com/216#Link-Level_feature): Link-lbel feature에 대해서 다룹니다. 
+Traditional feature-based methods: Link-level features: [youtube](https://www.youtube.com/watch?v=4dVwlE9jYxY&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=5), [blog](https://ok-lab.tistory.com/216#Link-Level_feature)
