@@ -52,3 +52,13 @@ jupyter notebook --ip=0.0.0.0 --port=8888 --allow-root
 ```
 `port`는 처음 실행할 때 연결한 `port`를 지정하시면 됩니다. 
 
+
+## CS224W
+
+[Application of Graph ML](https://ok-lab.tistory.com/184): 그래프가 어떤 식으로 활용되는지에 대 다룹니다.
+
+[Choice of Graph Representation](https://ok-lab.tistory.com/185): 그래프의 종류에 대해서 다룹니다.
+
+[Traditional feature-based methods: Node-level features](https://ok-lab.tistory.com/186): Node-level feature에 대해서 다룹니다. 
+
+[Traditional feature-based methods: Link-level features](https://ok-lab.tistory.com/216#Link-Level_feature): Link-lbel feature에 대해서 다룹니다. 
