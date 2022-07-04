@@ -62,3 +62,5 @@ Choice of Graph Representation: [youtube](https://www.youtube.com/watch?v=P-m1Qv
 Traditional feature-based methods: Node-level features: [youtube](https://www.youtube.com/watch?v=3IS7UhNMQ3U&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=4), [blog](https://ok-lab.tistory.com/186) 
 
 Traditional feature-based methods: Link-level features: [youtube](https://www.youtube.com/watch?v=4dVwlE9jYxY&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=5), [blog](https://ok-lab.tistory.com/216#Link-Level_feature)
+
+Traditional feature-based methods: Graph-level features: [youtube](https://www.youtube.com/watch?v=buzsHTa4Hgs&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=6), [blog](https://ok-lab.tistory.com/217)
