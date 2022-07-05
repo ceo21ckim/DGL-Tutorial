@@ -7,4 +7,4 @@
 데이터의 `feature`를 보다 잘 이해할 수 있다는 개념으로 받아들일 수 있습니다. 내적이 가능하거나 하는 등의 추가적인 이점이 존재합니다. Word2Vec과 동일하게 Skip-gram과 CBoW를 
 사용하여 단어를 `Node`로 문장을 `Walk`로 매칭한 후 학습합니다. 이를 통해 `Embedding`된 `Node`혹은 `Walk`를 시각화할 수도 있습니다. 
 
-![image]()
+![image](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/asset/DeepWalk_embedding.png)
