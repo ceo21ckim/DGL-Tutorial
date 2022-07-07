@@ -63,7 +63,7 @@ DeepWalk: online learning of social representations (KDD'14) [paper](https://arx
 
 LINE: Large-scale Information Network Embedding (WWW'15) [paper](https://arxiv.org/pdf/1503.03578.pdf)
 
-Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering (NeuIPS'16)
+Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering (NeuIPS'16) [paper](https://arxiv.org/pdf/1606.09375.pdf)
 
 Node2Vec: Scalable Feature Learning for Networks (KDD'16) [paper](https://arxiv.org/pdf/1607.00653.pdf)
 
