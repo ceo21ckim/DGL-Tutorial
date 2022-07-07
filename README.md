@@ -80,7 +80,7 @@ Watch Your Step: Learning Node Embedding via Graph Attention (NeurIPS'18) [paper
 HARP: Hierarchical Representation Learning for Networks (AAAI'18) [paper](https://arxiv.org/pdf/1706.07845.pdf)
 
 
-** Survey **
+**Survey**
 
 Graph Embedding Techniques, Applications, and Performance: A Survey [paper](https://arxiv.org/pdf/1705.02801.pdf)
 
