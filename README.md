@@ -59,6 +59,8 @@ Traditional feature-based methods: Graph-level features: [youtube](https://www.y
 
 DeepWalk: online learning of social representations (KDD'14) [paper](https://arxiv.org/pdf/1403.6652.pdf)
 
+LINE: Large-scale Information Network Embedding (WWW'15) [paper](https://arxiv.org/pdf/1503.03578.pdf)
+
 Node2Vec: Scalable Feature Learning for Networks (KDD'16) [paper](https://arxiv.org/pdf/1607.00653.pdf)
 
 Semi-supervised Classification with Graph Convolutional Networks (ICLR'17), [paper](https://arxiv.org/pdf/1609.02907.pdf), [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/GraphConv/Implementation.ipynb)
@@ -67,5 +69,15 @@ Inductive Representation Learning on Large Graphs (NeuIPS'17) [paper](https://ar
 
 Neural Message Passing for Quantum Chemistry (PMLR'17) [paper](https://arxiv.org/pdf/1704.01212.pdf)
 
+struc2vec: Learning Node Representations from Structural Identity (KDD'17) [paper](https://arxiv.org/pdf/1704.03165.pdf)
+
+metapath2vec: Scalable Representation Learning for Heterogeneous Networks (KDD'17) [paper](https://ericdongyx.github.io/papers/KDD17-dong-chawla-swami-metapath2vec.pdf)
+
 Graph Convolutional Matrix Completion (KDD'18) [paper](https://arxiv.org/pdf/1706.02263.pdf), [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/GCMC/RecSys(GCMC).ipynb)
+
+Watch Your Step: Learning Node Embedding via Graph Attention (NeurIPS'18) [paper](https://arxiv.org/pdf/1710.09599.pdf)
+
+HARP: Hierarchical Representation Learning for Networks (AAAI'18) [paper](https://arxiv.org/pdf/1706.07845.pdf)
+
+
 
