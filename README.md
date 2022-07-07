@@ -55,6 +55,8 @@ Traditional feature-based methods: Link-level features: [youtube](https://www.yo
 
 Traditional feature-based methods: Graph-level features: [youtube](https://www.youtube.com/watch?v=buzsHTa4Hgs&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=6), [blog](https://ok-lab.tistory.com/217)
 
+Random Walk Approaches for Node Embeddings : [youtube](https://www.youtube.com/watch?v=Xv0wRy66Big&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=8), [blog](https://ok-lab.tistory.com/218?category=937496)
+
 ## Paper ##
 
 DeepWalk: online learning of social representations (KDD'14) [paper](https://arxiv.org/pdf/1403.6652.pdf)
