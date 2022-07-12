@@ -83,6 +83,7 @@ metapath2vec: Scalable Representation Learning for Heterogeneous Networks (KDD'1
 
 Watch Your Step: Learning Node Embedding via Graph Attention (NeurIPS'18) [paper](https://arxiv.org/pdf/1710.09599.pdf)
 
+Simplifying Graph Convolutional Networks (PMLR'19) [paper](http://proceedings.mlr.press/v97/wu19e/wu19e.pdf)
 
 
 **Survey**
