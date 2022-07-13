@@ -61,21 +61,25 @@ Traditional feature-based methods: Graph-level features: [youtube](https://www.y
 
 **Lecture 3**
 
-Random Walk Approaches for Node Embeddings : [youtube](https://www.youtube.com/watch?v=Xv0wRy66Big&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=8), [blog](https://ok-lab.tistory.com/218?category=937496)
+Random Walk Approaches for Node Embeddings: [youtube](https://www.youtube.com/watch?v=Xv0wRy66Big&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=8), [blog](https://ok-lab.tistory.com/218?category=937496)
+
+Embedding Entre Graphs: [youtube](https://www.youtube.com/watch?v=eliMLfJeu7A&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=9), [blog]
 
 ## Paper ##
+
+**Embedding**
 
 DeepWalk: online learning of social representations (KDD'14) [paper](https://arxiv.org/pdf/1403.6652.pdf)
 
 LINE: Large-scale Information Network Embedding (WWW'15) [paper](https://arxiv.org/pdf/1503.03578.pdf)
 
-Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering (NeuIPS'16) [paper](https://arxiv.org/pdf/1606.09375.pdf)
+Convolutional Networks on Graphs for Learning Molecular Fingerprints (NeuIPS'15) [paper](https://arxiv.org/pdf/1509.09292.pdf)
+
+Gated Graph Sequence Neural Networks (ICLR'16) [paper](https://arxiv.org/pdf/1511.05493.pdf)
 
 Node2Vec: Scalable Feature Learning for Networks (KDD'16) [paper](https://arxiv.org/pdf/1607.00653.pdf)
 
-Semi-supervised Classification with Graph Convolutional Networks (ICLR'17), [paper](https://arxiv.org/pdf/1609.02907.pdf), [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/GraphConv/Implementation.ipynb)
-
-Neural Message Passing for Quantum Chemistry (PMLR'17) [paper](https://arxiv.org/pdf/1704.01212.pdf)
+metapath2vec: Scalable Representation Learning for Heterogeneous Networks (KDD'17) [paper](https://ericdongyx.github.io/papers/KDD17-dong-chawla-swami-metapath2vec.pdf)
 
 struc2vec: Learning Node Representations from Structural Identity (KDD'17) [paper](https://arxiv.org/pdf/1704.03165.pdf)
 
@@ -83,13 +87,22 @@ Inductive Representation Learning on Large Graphs (NeuIPS'17) [paper](https://ar
 
 HARP: Hierarchical Representation Learning for Networks (AAAI'18) [paper](https://arxiv.org/pdf/1706.07845.pdf)
 
-Graph Convolutional Matrix Completion (KDD'18) [paper](https://arxiv.org/pdf/1706.02263.pdf), [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/GCMC/RecSys(GCMC).ipynb)
-
-metapath2vec: Scalable Representation Learning for Heterogeneous Networks (KDD'17) [paper](https://ericdongyx.github.io/papers/KDD17-dong-chawla-swami-metapath2vec.pdf)
-
 Watch Your Step: Learning Node Embedding via Graph Attention (NeurIPS'18) [paper](https://arxiv.org/pdf/1710.09599.pdf)
 
-Simplifying Graph Convolutional Networks (PMLR'19) [paper](http://proceedings.mlr.press/v97/wu19e/wu19e.pdf)
+Anonymous Walk Embeddings (ICML'18) [paper](https://arxiv.org/pdf/1805.11921.pdf)
+
+
+**Model**
+
+Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering (NeuIPS'16) [paper](https://arxiv.org/pdf/1606.09375.pdf)
+
+Semi-supervised Classification with Graph Convolutional Networks (ICLR'17), [paper](https://arxiv.org/pdf/1609.02907.pdf), [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/GraphConv/Implementation.ipynb)
+
+Neural Message Passing for Quantum Chemistry (PMLR'17) [paper](https://arxiv.org/pdf/1704.01212.pdf)
+
+Graph Convolutional Matrix Completion (KDD'18) [paper](https://arxiv.org/pdf/1706.02263.pdf), [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/GCMC/RecSys(GCMC).ipynb)
+
+Simplifying Graph Convolutional Networks (ICML'19) [paper](http://proceedings.mlr.press/v97/wu19e/wu19e.pdf)
 
 
 **Survey**
