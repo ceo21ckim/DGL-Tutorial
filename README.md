@@ -45,15 +45,21 @@ jupyter notebook --ip=0.0.0.0 --port=8888 --allow-root
 
 ## CS224W
 
+**Lecture 1**
+
 Application of Graph ML: [youtube](https://www.youtube.com/watch?v=aBHC6xzx9YI&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=2), [blog](https://ok-lab.tistory.com/184)
 
 Choice of Graph Representation: [youtube](https://www.youtube.com/watch?v=P-m1Qv6-8cI&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=3), [blog](https://ok-lab.tistory.com/185)
+
+**Lecture 2**
 
 Traditional feature-based methods: Node-level features: [youtube](https://www.youtube.com/watch?v=3IS7UhNMQ3U&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=4), [blog](https://ok-lab.tistory.com/186) 
 
 Traditional feature-based methods: Link-level features: [youtube](https://www.youtube.com/watch?v=4dVwlE9jYxY&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=5), [blog](https://ok-lab.tistory.com/216#Link-Level_feature)
 
 Traditional feature-based methods: Graph-level features: [youtube](https://www.youtube.com/watch?v=buzsHTa4Hgs&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=6), [blog](https://ok-lab.tistory.com/217)
+
+**Lecture 3**
 
 Random Walk Approaches for Node Embeddings : [youtube](https://www.youtube.com/watch?v=Xv0wRy66Big&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=8), [blog](https://ok-lab.tistory.com/218?category=937496)
 
