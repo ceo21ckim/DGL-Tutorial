@@ -63,7 +63,7 @@ Traditional feature-based methods: Graph-level features: [youtube](https://www.y
 
 Random Walk Approaches for Node Embeddings: [youtube](https://www.youtube.com/watch?v=Xv0wRy66Big&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=8), [blog](https://ok-lab.tistory.com/218?category=937496)
 
-Embedding Entre Graphs: [youtube](https://www.youtube.com/watch?v=eliMLfJeu7A&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=9), [blog]
+Embedding Entre Graphs: [youtube](https://www.youtube.com/watch?v=eliMLfJeu7A&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=9), [blog](https://ok-lab.tistory.com/222)
 
 ## Paper ##
 
