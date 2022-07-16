@@ -73,7 +73,7 @@ DeepWalk: online learning of social representations (KDD'14) [paper](https://arx
 
 LINE: Large-scale Information Network Embedding (WWW'15) [paper](https://arxiv.org/pdf/1503.03578.pdf)
 
-Convolutional Networks on Graphs for Learning Molecular Fingerprints (NeuIPS'15) [paper](https://arxiv.org/pdf/1509.09292.pdf)
+Convolutional Networks on Graphs for Learning Molecular Fingerprints (NeurIPS'15) [paper](https://arxiv.org/pdf/1509.09292.pdf)
 
 Gated Graph Sequence Neural Networks (ICLR'16) [paper](https://arxiv.org/pdf/1511.05493.pdf)
 
@@ -83,7 +83,7 @@ metapath2vec: Scalable Representation Learning for Heterogeneous Networks (KDD'1
 
 struc2vec: Learning Node Representations from Structural Identity (KDD'17) [paper](https://arxiv.org/pdf/1704.03165.pdf)
 
-Inductive Representation Learning on Large Graphs (NeuIPS'17) [paper](https://arxiv.org/pdf/1706.02216.pdf)
+Inductive Representation Learning on Large Graphs (NeurIPS'17) [paper](https://arxiv.org/pdf/1706.02216.pdf)
 
 HARP: Hierarchical Representation Learning for Networks (AAAI'18) [paper](https://arxiv.org/pdf/1706.07845.pdf)
 
@@ -94,6 +94,8 @@ Anonymous Walk Embeddings (ICML'18) [paper](https://arxiv.org/pdf/1805.11921.pdf
 
 **Model**
 
+Diffusion-convolutional neural networks (NeurIPS'16) [paper](https://arxiv.org/pdf/1511.02136.pdf)
+
 Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering (NeuIPS'16) [paper](https://arxiv.org/pdf/1606.09375.pdf)
 
 Semi-supervised Classification with Graph Convolutional Networks (ICLR'17), [paper](https://arxiv.org/pdf/1609.02907.pdf), [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/GraphConv/Implementation.ipynb)
@@ -102,11 +104,11 @@ Neural Message Passing for Quantum Chemistry (PMLR'17) [paper](https://arxiv.org
 
 Graph Convolutional Matrix Completion (KDD'18) [paper](https://arxiv.org/pdf/1706.02263.pdf), [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/GCMC/RecSys(GCMC).ipynb)
 
+Large-Scale Learnable Graph Convolutional Networks (KDD'18) [paper](https://arxiv.org/pdf/1808.03965.pdf)
+
 Simplifying Graph Convolutional Networks (ICML'19) [paper](http://proceedings.mlr.press/v97/wu19e/wu19e.pdf)
 
 
 **Survey**
 
 Graph Embedding Techniques, Applications, and Performance: A Survey [paper](https://arxiv.org/pdf/1705.02801.pdf)
-
-...
