@@ -94,19 +94,19 @@ Anonymous Walk Embeddings (ICML'18) [paper](https://arxiv.org/pdf/1805.11921.pdf
 
 **Model**
 
-Diffusion-convolutional neural networks (NeurIPS'16) [paper](https://arxiv.org/pdf/1511.02136.pdf)
+DGCN: Diffusion-convolutional neural networks (NeurIPS'16) [paper](https://arxiv.org/pdf/1511.02136.pdf)
 
-Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering (NeuIPS'16) [paper](https://arxiv.org/pdf/1606.09375.pdf)
+ChebNet: Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering (NeuIPS'16) [paper](https://arxiv.org/pdf/1606.09375.pdf)
 
-Semi-supervised Classification with Graph Convolutional Networks (ICLR'17), [paper](https://arxiv.org/pdf/1609.02907.pdf), [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/GraphConv/Implementation.ipynb)
+GCN: Semi-supervised Classification with Graph Convolutional Networks (ICLR'17), [paper](https://arxiv.org/pdf/1609.02907.pdf), [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/GraphConv/Implementation.ipynb)
 
-Neural Message Passing for Quantum Chemistry (PMLR'17) [paper](https://arxiv.org/pdf/1704.01212.pdf)
+MPNN: Neural Message Passing for Quantum Chemistry (PMLR'17) [paper](https://arxiv.org/pdf/1704.01212.pdf)
 
-Graph Convolutional Matrix Completion (KDD'18) [paper](https://arxiv.org/pdf/1706.02263.pdf), [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/GCMC/RecSys(GCMC).ipynb)
+GCMC: Graph Convolutional Matrix Completion (KDD'18) [paper](https://arxiv.org/pdf/1706.02263.pdf), [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/GCMC/RecSys(GCMC).ipynb)
 
-Large-Scale Learnable Graph Convolutional Networks (KDD'18) [paper](https://arxiv.org/pdf/1808.03965.pdf)
+LGCN: Large-Scale Learnable Graph Convolutional Networks (KDD'18) [paper](https://arxiv.org/pdf/1808.03965.pdf)
 
-Simplifying Graph Convolutional Networks (ICML'19) [paper](http://proceedings.mlr.press/v97/wu19e/wu19e.pdf)
+SGCN: Simplifying Graph Convolutional Networks (ICML'19) [paper](http://proceedings.mlr.press/v97/wu19e/wu19e.pdf)
 
 
 **Survey**
