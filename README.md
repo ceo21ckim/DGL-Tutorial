@@ -66,7 +66,7 @@ Random Walk Approaches for Node Embeddings: [youtube](https://www.youtube.com/wa
 Embedding Entre Graphs: [youtube](https://www.youtube.com/watch?v=eliMLfJeu7A&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=9), [blog](https://ok-lab.tistory.com/222)
 
 **Lecture 4**
-PageRank: [youtube](https://www.youtube.com/watch?v=TU0ankRcHmo&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=10), [blog]()
+PageRank: [youtube](https://www.youtube.com/watch?v=TU0ankRcHmo&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=10), [blog](https://ok-lab.tistory.com/223)
 
 ## Paper ##
 
