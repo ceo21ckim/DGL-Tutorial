@@ -106,6 +106,8 @@ GCN: Semi-supervised Classification with Graph Convolutional Networks (ICLR'17),
 
 MPNN: Neural Message Passing for Quantum Chemistry (PMLR'17) [paper](https://arxiv.org/pdf/1704.01212.pdf)
 
+GAT: Graph Attention Networks (ICLR'18) [paper](https://arxiv.org/pdf/1710.10903.pdf)
+
 GCMC: Graph Convolutional Matrix Completion (KDD'18) [paper](https://arxiv.org/pdf/1706.02263.pdf), [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/GCMC/RecSys(GCMC).ipynb)
 
 LGCN: Large-Scale Learnable Graph Convolutional Networks (KDD'18) [paper](https://arxiv.org/pdf/1808.03965.pdf)
