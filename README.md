@@ -115,5 +115,3 @@ SGCN: Simplifying Graph Convolutional Networks (ICML'19) [paper](http://proceedi
 **Survey**
 
 Graph Embedding Techniques, Applications, and Performance: A Survey [paper](https://arxiv.org/pdf/1705.02801.pdf)
-
-...
