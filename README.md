@@ -114,7 +114,7 @@ LGCN: Large-Scale Learnable Graph Convolutional Networks (KDD'18) [paper](https:
 
 SGCN: Simplifying Graph Convolutional Networks (ICML'19) [paper](http://proceedings.mlr.press/v97/wu19e/wu19e.pdf)
 
-GraphRec: Graph Neural Network for social Networks [paper](https://arxiv.org/pdf/1902.07243.pdf)
+GraphRec: Graph Neural Network for social Networks (WWW'19) [paper](https://arxiv.org/pdf/1902.07243.pdf)
 
 
 **Survey**
