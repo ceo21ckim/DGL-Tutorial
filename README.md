@@ -120,3 +120,5 @@ GraphRec: Graph Neural Network for social Networks (WWW'19) [paper](https://arxi
 **Survey**
 
 Graph Embedding Techniques, Applications, and Performance: A Survey [paper](https://arxiv.org/pdf/1705.02801.pdf)
+
+...
