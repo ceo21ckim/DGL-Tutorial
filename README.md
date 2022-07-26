@@ -100,13 +100,13 @@ Anonymous Walk Embeddings (ICML'18) [paper](https://arxiv.org/pdf/1805.11921.pdf
 
 DGCN: Diffusion-convolutional neural networks (NeurIPS'16) [paper](https://arxiv.org/pdf/1511.02136.pdf)
 
-ChebNet: Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering (NeuIPS'16) [paper](https://arxiv.org/pdf/1606.09375.pdf)
+ChebNet: Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering (NeuIPS'16) [paper](https://arxiv.org/pdf/1606.09375.pdf) [blog](https://ok-lab.tistory.com/221?category=940094)
 
-GCN: Semi-supervised Classification with Graph Convolutional Networks (ICLR'17), [paper](https://arxiv.org/pdf/1609.02907.pdf), [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/GraphConv/Implementation.ipynb)
+GCN: Semi-supervised Classification with Graph Convolutional Networks (ICLR'17), [paper](https://arxiv.org/pdf/1609.02907.pdf), [blog](https://ok-lab.tistory.com/205?category=940094) [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/GraphConv/Implementation.ipynb)
 
 MPNN: Neural Message Passing for Quantum Chemistry (PMLR'17) [paper](https://arxiv.org/pdf/1704.01212.pdf)
 
-GAT: Graph Attention Networks (ICLR'18) [paper](https://arxiv.org/pdf/1710.10903.pdf)
+GAT: Graph Attention Networks (ICLR'18) [paper](https://arxiv.org/pdf/1710.10903.pdf) [blog](https://ok-lab.tistory.com/225?category=940094)
 
 GCMC: Graph Convolutional Matrix Completion (KDD'18) [paper](https://arxiv.org/pdf/1706.02263.pdf), [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/GCMC/RecSys(GCMC).ipynb)
 
