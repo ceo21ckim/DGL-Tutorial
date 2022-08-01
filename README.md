@@ -116,7 +116,7 @@ LGCN: Large-Scale Learnable Graph Convolutional Networks (KDD'18) [paper](https:
 
 SGCN: Simplifying Graph Convolutional Networks (ICML'19) [paper](http://proceedings.mlr.press/v97/wu19e/wu19e.pdf)
 
-GraphRec: Graph Neural Network for social Networks (WWW'19) [paper](https://arxiv.org/pdf/1902.07243.pdf) [blog](https://ok-lab.tistory.com/226)
+GraphRec: Graph Neural Network for social Networks (WWW'19) [paper](https://arxiv.org/pdf/1902.07243.pdf), [blog](https://ok-lab.tistory.com/226)
 
 
 **Survey**
@@ -128,4 +128,4 @@ Graph Embedding Techniques, Applications, and Performance: A Survey [paper](http
 
 A New Models for Learning in Graph Domains (IJCNN'05) [paper](https://www.researchgate.net/profile/Franco-Scarselli/publication/4202380_A_new_model_for_earning_in_raph_domains/links/0c9605188cd580504f000000/A-new-model-for-earning-in-raph-domains.pdf)
 
-Simplifying Graph Convolutional Networks (2019) [paper](https://arxiv.org/pdf/1902.07153.pdf) [blog](https://ok-lab.tistory.com/224)
+Simplifying Graph Convolutional Networks (2019) [paper](https://arxiv.org/pdf/1902.07153.pdf), [blog](https://ok-lab.tistory.com/224)
