@@ -1,6 +1,6 @@
 ## SGC 
 
-[Simplifying Grpah Convolutional Networks](https://arxiv.org/pdf/1902.07153.pdf): [[blog]](https://ok-lab.tistory.com/224)
+Simplifying Grpah Convolutional Networks: [paper](https://arxiv.org/pdf/1902.07153.pdf), [blog](https://ok-lab.tistory.com/224)
 
 SGC(Simplifying Graph convolutional Networks)는 기존의 GCN 모델에서 사용하는 
 feature propagation, linear tranformation, non-linearity에서 linear transformation과 non-linearity를 제거하여 속도를 향상 시킨 것 뿐만 아니라, 
