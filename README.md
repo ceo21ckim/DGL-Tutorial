@@ -118,6 +118,14 @@ SGCN: Simplifying Graph Convolutional Networks (ICML'19) [paper](http://proceedi
 
 GraphRec: Graph Neural Network for social Networks (WWW'19) [paper](https://arxiv.org/pdf/1902.07243.pdf), [blog](https://ok-lab.tistory.com/226)
 
+SGC: Simplifying Graph Convolutional Networks (PMLR'19) [paper](https://arxiv.org/pdf/1902.07153.pdf), [blog](https://ok-lab.tistory.com/224), [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/SGC/models.py)
+
+
+***Recommender Systems***
+
+NGCF: Neural Graph Collaborative Filtering (SIGIR'19) [paper](https://arxiv.org/pdf/1905.08108.pdf), [blog](https://ok-lab.tistory.com/204?category=940094)
+
+LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation (SIGIR'20) [paper], [blog](https://ok-lab.tistory.com/200?category=940094)
 
 **Survey**
 
@@ -127,5 +135,3 @@ Graph Embedding Techniques, Applications, and Performance: A Survey [paper](http
 **Others**
 
 A New Models for Learning in Graph Domains (IJCNN'05) [paper](https://www.researchgate.net/profile/Franco-Scarselli/publication/4202380_A_new_model_for_earning_in_raph_domains/links/0c9605188cd580504f000000/A-new-model-for-earning-in-raph-domains.pdf)
-
-Simplifying Graph Convolutional Networks (PMLR'19) [paper](https://arxiv.org/pdf/1902.07153.pdf), [blog](https://ok-lab.tistory.com/224)
