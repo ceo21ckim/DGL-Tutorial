@@ -125,7 +125,7 @@ SGC: Simplifying Graph Convolutional Networks (PMLR'19) [paper](https://arxiv.or
 
 NGCF: Neural Graph Collaborative Filtering (SIGIR'19) [paper](https://arxiv.org/pdf/1905.08108.pdf), [blog](https://ok-lab.tistory.com/204?category=940094)
 
-LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation (SIGIR'20) [paper], [blog](https://ok-lab.tistory.com/200?category=940094)
+LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation (SIGIR'20) [paper](https://arxiv.org/pdf/2002.02126.pdf), [blog](https://ok-lab.tistory.com/200?category=940094)
 
 **Survey**
 
