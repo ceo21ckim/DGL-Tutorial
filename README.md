@@ -135,5 +135,3 @@ Graph Embedding Techniques, Applications, and Performance: A Survey [paper](http
 **Others**
 
 A New Models for Learning in Graph Domains (IJCNN'05) [paper](https://www.researchgate.net/profile/Franco-Scarselli/publication/4202380_A_new_model_for_earning_in_raph_domains/links/0c9605188cd580504f000000/A-new-model-for-earning-in-raph-domains.pdf)
-
-..
