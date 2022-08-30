@@ -122,7 +122,9 @@ SGC: Simplifying Graph Convolutional Networks (PMLR'19) [paper](https://arxiv.or
 
 GNNExplainer: Generating Explanations for Graph Neural Networks (NeurIPS'19) [paper](https://arxiv.org/pdf/1903.03894.pdf) 
 
-KGCN: Knowledge Graph Convolutional Networks for Recommender (WWW'19) [paper](https://arxiv.org/pdf/1904.12575.pdf) 
+KGCN: Knowledge Graph Convolutional Networks for Recommender (WWW'19) [paper](https://arxiv.org/pdf/1904.12575.pdf)
+
+TokenGT: Pure Transformers are Powerful Graph Learners [paper](https://arxiv.org/pdf/2207.02505.pdf)
 
 ***Recommender Systems***
 
