@@ -120,11 +120,14 @@ GraphRec: Graph Neural Network for social Networks (WWW'19) [paper](https://arxi
 
 SGC: Simplifying Graph Convolutional Networks (PMLR'19) [paper](https://arxiv.org/pdf/1902.07153.pdf), [blog](https://ok-lab.tistory.com/224), [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/SGC/models.py)
 
+GNNExplainer: Generating Explanations for Graph Neural Networks (NeurIPS'19) [paper](https://arxiv.org/pdf/1903.03894.pdf) 
+
+KGCN: Knowledge Graph Convolutional Networks for Recommender (WWW'19) [paper](https://arxiv.org/pdf/1904.12575.pdf) 
 
 ***Recommender Systems***
 
 NGCF: Neural Graph Collaborative Filtering (SIGIR'19) [paper](https://arxiv.org/pdf/1905.08108.pdf), [blog](https://ok-lab.tistory.com/204?category=940094)
-
+ 
 LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation (SIGIR'20) [paper](https://arxiv.org/pdf/2002.02126.pdf), [blog](https://ok-lab.tistory.com/200?category=940094)
 
 **Survey**
