@@ -44,11 +44,11 @@ jupyter notebook --ip=0.0.0.0 --port=8888 --allow-root
 
 ## Basic Tasks
 
-- [Load Data](https://github.com/ceo21ckim/DGL-tutorial/blob/main/basic_tasks/1_load_data.ipynb)
-- [GNN](https://github.com/ceo21ckim/DGL-tutorial/blob/main/basic_tasks/2_gnn(GraphSAGE).ipynb)
-- [Link Prediction](https://github.com/ceo21ckim/DGL-tutorial/blob/main/basic_tasks/3_link_predict.ipynb)
-- [Message Passing](https://github.com/ceo21ckim/DGL-tutorial/blob/main/basic_tasks/4_message_passing.ipynb)
-- [Node Classification](https://github.com/ceo21ckim/DGL-tutorial/blob/main/basic_tasks/5_Node_Classification.ipynb)
+- [Load Data](https://github.com/ceo21ckim/DGL-tutorial/tree/main/basic_tasks/1.Load_Data)
+- [Node Classification](https://github.com/ceo21ckim/DGL-tutorial/tree/main/basic_tasks/2.Node_Classification)
+- [Link Prediction](https://github.com/ceo21ckim/DGL-tutorial/tree/main/basic_tasks/3.Link_Prediction)
+- [GNN](https://github.com/ceo21ckim/DGL-tutorial/tree/main/basic_tasks/4.Others)
+- [Message Passing](https://github.com/ceo21ckim/DGL-tutorial/tree/main/basic_tasks/4.Others)
 
 
 ## CS224W
