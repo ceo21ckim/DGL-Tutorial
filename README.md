@@ -42,6 +42,14 @@ jupyter notebook --ip=0.0.0.0 --port=8888 --allow-root
 ```
 `port`는 처음 실행할 때 연결한 `port`를 지정하시면 됩니다. 
 
+## Basic Tasks
+
+- [Load Data](https://github.com/ceo21ckim/DGL-tutorial/blob/main/basic_tasks/1_load_data.ipynb)
+- [GNN](https://github.com/ceo21ckim/DGL-tutorial/blob/main/basic_tasks/2_gnn(GraphSAGE).ipynb)
+- [Link Prediction](https://github.com/ceo21ckim/DGL-tutorial/blob/main/basic_tasks/3_link_predict.ipynb)
+- [Message Passing](https://github.com/ceo21ckim/DGL-tutorial/blob/main/basic_tasks/4_message_passing.ipynb)
+- [Node Classification](https://github.com/ceo21ckim/DGL-tutorial/blob/main/basic_tasks/5_Node_Classification.ipynb)
+
 
 ## CS224W
 
