@@ -281,6 +281,10 @@ LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation 
 
 Graph Embedding Techniques, Applications, and Performance: A Survey [paper](https://arxiv.org/pdf/1705.02801.pdf)
 
+A Survey on Influence Maximization in a Social Network: [paper](https://arxiv.org/pdf/1808.05502.pdf)
+
+Random Graph Modeling: A Survey of the Concepts: [paper](https://dl.acm.org/doi/pdf/10.1145/3369782)
+
 
 **Others**
 
