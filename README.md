@@ -279,7 +279,7 @@ LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation 
 
 **Survey**
 
-Graph Embedding Techniques, Applications, and Performance: A Survey:(2017) [paper](https://arxiv.org/pdf/1705.02801.pdf)
+Graph Embedding Techniques, Applications, and Performance: A Survey (2017): [paper](https://arxiv.org/pdf/1705.02801.pdf)
 
 A Survey on Influence Maximization in a Social Network (2018): [paper](https://arxiv.org/pdf/1808.05502.pdf)
 
