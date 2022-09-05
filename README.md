@@ -216,27 +216,27 @@ Design Space of Graph Neural Networks: [youtube](https://www.youtube.com/watch?v
 
 **Embedding**
 
-DeepWalk: online learning of social representations (KDD'14) [paper](https://arxiv.org/pdf/1403.6652.pdf)
+DeepWalk: online learning of social representations (KDD'14): [paper](https://arxiv.org/pdf/1403.6652.pdf)
 
-LINE: Large-scale Information Network Embedding (WWW'15) [paper](https://arxiv.org/pdf/1503.03578.pdf)
+LINE: Large-scale Information Network Embedding (WWW'15): [paper](https://arxiv.org/pdf/1503.03578.pdf)
 
-Convolutional Networks on Graphs for Learning Molecular Fingerprints (NeurIPS'15) [paper](https://arxiv.org/pdf/1509.09292.pdf)
+Convolutional Networks on Graphs for Learning Molecular Fingerprints (NeurIPS'15): [paper](https://arxiv.org/pdf/1509.09292.pdf)
 
-Gated Graph Sequence Neural Networks (ICLR'16) [paper](https://arxiv.org/pdf/1511.05493.pdf)
+Gated Graph Sequence Neural Networks (ICLR'16): [paper](https://arxiv.org/pdf/1511.05493.pdf)
 
-Node2Vec: Scalable Feature Learning for Networks (KDD'16) [paper](https://arxiv.org/pdf/1607.00653.pdf)
+Node2Vec: Scalable Feature Learning for Networks (KDD'16): [paper](https://arxiv.org/pdf/1607.00653.pdf)
 
-metapath2vec: Scalable Representation Learning for Heterogeneous Networks (KDD'17) [paper](https://ericdongyx.github.io/papers/KDD17-dong-chawla-swami-metapath2vec.pdf)
+metapath2vec: Scalable Representation Learning for Heterogeneous Networks (KDD'17): [paper](https://ericdongyx.github.io/papers/KDD17-dong-chawla-swami-metapath2vec.pdf)
 
-struc2vec: Learning Node Representations from Structural Identity (KDD'17) [paper](https://arxiv.org/pdf/1704.03165.pdf)
+struc2vec: Learning Node Representations from Structural Identity (KDD'17): [paper](https://arxiv.org/pdf/1704.03165.pdf)
 
-Inductive Representation Learning on Large Graphs (NeurIPS'17) [paper](https://arxiv.org/pdf/1706.02216.pdf)
+Inductive Representation Learning on Large Graphs (NeurIPS'17): [paper](https://arxiv.org/pdf/1706.02216.pdf)
 
-HARP: Hierarchical Representation Learning for Networks (AAAI'18) [paper](https://arxiv.org/pdf/1706.07845.pdf)
+HARP: Hierarchical Representation Learning for Networks (AAAI'18): [paper](https://arxiv.org/pdf/1706.07845.pdf)
 
-Watch Your Step: Learning Node Embedding via Graph Attention (NeurIPS'18) [paper](https://arxiv.org/pdf/1710.09599.pdf)
+Watch Your Step: Learning Node Embedding via Graph Attention (NeurIPS'18): [paper](https://arxiv.org/pdf/1710.09599.pdf)
 
-Anonymous Walk Embeddings (ICML'18) [paper](https://arxiv.org/pdf/1805.11921.pdf)
+Anonymous Walk Embeddings (ICML'18): [paper](https://arxiv.org/pdf/1805.11921.pdf)
 
 
 **Model**
