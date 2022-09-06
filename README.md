@@ -240,58 +240,62 @@ Anonymous Walk Embeddings (ICML'18): [paper](https://arxiv.org/pdf/1805.11921.pd
 
 
 **Model**
+| Name | Paper Link | Code Link | Blog Link  |
+| ---  | ---- | ---- | ---- |
+|DGCN: Diffusion-convolutional neural networks (NeurIPS'16) |[paper](https://arxiv.org/pdf/1511.02136.pdf)|
 
-DGCN: Diffusion-convolutional neural networks (NeurIPS'16): [paper](https://arxiv.org/pdf/1511.02136.pdf)
+|ChebNet: Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering (NeurIPS'16)| [paper](https://arxiv.org/pdf/1606.09375.pdf)| [blog](https://ok-lab.tistory.com/221?category=940094)| - |
 
-ChebNet: Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering (NeurIPS'16): [paper](https://arxiv.org/pdf/1606.09375.pdf), [blog](https://ok-lab.tistory.com/221?category=940094)
+|GCN: Semi-supervised Classification with Graph Convolutional Networks (ICLR'17)| [paper](https://arxiv.org/pdf/1609.02907.pdf)| - | [blog](https://ok-lab.tistory.com/205?category=940094)| [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/GraphConv/Implementation.ipynb)|
 
-GCN: Semi-supervised Classification with Graph Convolutional Networks (ICLR'17): [paper](https://arxiv.org/pdf/1609.02907.pdf), [blog](https://ok-lab.tistory.com/205?category=940094), [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/GraphConv/Implementation.ipynb)
+|MPNN: Neural Message Passing for Quantum Chemistry (PMLR'17)| [paper](https://arxiv.org/pdf/1704.01212.pdf)| - | - |
 
-MPNN: Neural Message Passing for Quantum Chemistry (PMLR'17): [paper](https://arxiv.org/pdf/1704.01212.pdf)
+|GraphSAGE: Inductive Representation Learning on Large Graphs (NeurIPS'17)| [paper](https://arxiv.org/pdf/1706.02216.pdf)| - | - |
 
-GraphSAGE: Inductive Representation Learning on Large Graphs (NeurIPS'17): [paper](https://arxiv.org/pdf/1706.02216.pdf)
+|GAT: Graph Attention Networks (ICLR'18)| [paper](https://arxiv.org/pdf/1710.10903.pdf)| [blog](https://ok-lab.tistory.com/225?category=940094)| - |
 
-GAT: Graph Attention Networks (ICLR'18): [paper](https://arxiv.org/pdf/1710.10903.pdf), [blog](https://ok-lab.tistory.com/225?category=940094)
+|GCMC: Graph Convolutional Matrix Completion (KDD'18)| [paper](https://arxiv.org/pdf/1706.02263.pdf)| - | [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/GCMC/RecSys(GCMC).ipynb)|
 
-GCMC: Graph Convolutional Matrix Completion (KDD'18): [paper](https://arxiv.org/pdf/1706.02263.pdf), [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/GCMC/RecSys(GCMC).ipynb)
+|SEAL: Link Prediction Based on Graph Neural Networks (NeurIPS'18)| [paper](https://papers.nips.cc/paper/2018/file/53f0d7c537d99b3824f0f99d62ea2428-Paper.pdf)| - | - |
 
-SEAL: Link Prediction Based on Graph Neural Networks (NeurIPS'18): [paper](https://papers.nips.cc/paper/2018/file/53f0d7c537d99b3824f0f99d62ea2428-Paper.pdf)
+|LGCN: Large-Scale Learnable Graph Convolutional Networks (KDD'18)| [paper](https://arxiv.org/pdf/1808.03965.pdf)| - | - |
 
-LGCN: Large-Scale Learnable Graph Convolutional Networks (KDD'18): [paper](https://arxiv.org/pdf/1808.03965.pdf)
+|SGCN: Simplifying Graph Convolutional Networks (ICML'19)| [paper](http://proceedings.mlr.press/v97/wu19e/wu19e.pdf)| - | - |
 
-SGCN: Simplifying Graph Convolutional Networks (ICML'19): [paper](http://proceedings.mlr.press/v97/wu19e/wu19e.pdf)
+|GraphRec: Graph Neural Network for social Networks (WWW'19)| [paper](https://arxiv.org/pdf/1902.07243.pdf)| [blog](https://ok-lab.tistory.com/226)| - |
 
-GraphRec: Graph Neural Network for social Networks (WWW'19): [paper](https://arxiv.org/pdf/1902.07243.pdf), [blog](https://ok-lab.tistory.com/226)
+|SGC: Simplifying Graph Convolutional Networks (PMLR'19)| [paper](https://arxiv.org/pdf/1902.07153.pdf)| [blog](https://ok-lab.tistory.com/224)| [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/SGC/models.py)|
 
-SGC: Simplifying Graph Convolutional Networks (PMLR'19): [paper](https://arxiv.org/pdf/1902.07153.pdf), [blog](https://ok-lab.tistory.com/224), [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/SGC/models.py)
+|GNNExplainer: Generating Explanations for Graph Neural Networks (NeurIPS'19)| [paper](https://arxiv.org/pdf/1903.03894.pdf) | - | - |
 
-GNNExplainer: Generating Explanations for Graph Neural Networks (NeurIPS'19): [paper](https://arxiv.org/pdf/1903.03894.pdf) 
+|KGCN: Knowledge Graph Convolutional Networks for Recommender (WWW'19)| [paper](https://arxiv.org/pdf/1904.12575.pdf)| - | - |
 
-KGCN: Knowledge Graph Convolutional Networks for Recommender (WWW'19): [paper](https://arxiv.org/pdf/1904.12575.pdf)
-
-TokenGT: Pure Transformers are Powerful Graph Learners: [paper](https://arxiv.org/pdf/2207.02505.pdf)
+|TokenGT: Pure Transformers are Powerful Graph Learners| [paper](https://arxiv.org/pdf/2207.02505.pdf)| - | - |
 
 ***Recommender Systems***
 
-NGCF: Neural Graph Collaborative Filtering (SIGIR'19): [paper](https://arxiv.org/pdf/1905.08108.pdf), [blog](https://ok-lab.tistory.com/204?category=940094)
+|NGCF: Neural Graph Collaborative Filtering (SIGIR'19)| [paper](https://arxiv.org/pdf/1905.08108.pdf)| [blog](https://ok-lab.tistory.com/204?category=940094)| - |
  
-LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation (SIGIR'20): [paper](https://arxiv.org/pdf/2002.02126.pdf), [blog](https://ok-lab.tistory.com/200?category=940094)
+|LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation (SIGIR'20)| [paper](https://arxiv.org/pdf/2002.02126.pdf)| [blog](https://ok-lab.tistory.com/200?category=940094)| - |
 
-Self-supervised Learning for Large-scale Item Recommendations (CIKM'21): [paper](https://dl.acm.org/doi/pdf/10.1145/3459637.3481952)
+|Self-supervised Learning for Large-scale Item Recommendations (CIKM'21)| [paper](https://dl.acm.org/doi/pdf/10.1145/3459637.3481952)| - | - |
 
-SGL: Self-supervised Graph Learning for Recommendation (SIGIR'21): [paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3462862)
+|SGL: Self-supervised Graph Learning for Recommendation (SIGIR'21): [paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3462862)| - | - |
 
 **Survey**
+| Name | Paper Link |
+| ---  | ---- |
+|Graph Embedding Techniques, Applications, and Performance: A Survey (2017)| [paper](https://arxiv.org/pdf/1705.02801.pdf)|
 
-Graph Embedding Techniques, Applications, and Performance: A Survey (2017): [paper](https://arxiv.org/pdf/1705.02801.pdf)
+|A Survey on Influence Maximization in a Social Network (2018)| [paper](https://arxiv.org/pdf/1808.05502.pdf)|
 
-A Survey on Influence Maximization in a Social Network (2018): [paper](https://arxiv.org/pdf/1808.05502.pdf)
+|Random Graph Modeling: A Survey of the Concepts (2019)| [paper](https://dl.acm.org/doi/pdf/10.1145/3369782)|
 
-Random Graph Modeling: A Survey of the Concepts (2019): [paper](https://dl.acm.org/doi/pdf/10.1145/3369782)
-
-A Comprehensive Survey on Graph Neural Networks (2019): [paper](https://arxiv.org/pdf/1901.00596.pdf)
+|A Comprehensive Survey on Graph Neural Networks (2019)| [paper](https://arxiv.org/pdf/1901.00596.pdf)|
 
 
 **Others**
 
-A New Models for Learning in Graph Domains (IJCNN'05): [paper](https://www.researchgate.net/profile/Franco-Scarselli/publication/4202380_A_new_model_for_earning_in_raph_domains/links/0c9605188cd580504f000000/A-new-model-for-earning-in-raph-domains.pdf)
+| Name | Paper Link |
+| ---  | ---- |
+|A New Models for Learning in Graph Domains (IJCNN'05)| [paper](https://www.researchgate.net/profile/Franco-Scarselli/publication/4202380_A_new_model_for_earning_in_raph_domains/links/0c9605188cd580504f000000/A-new-model-for-earning-in-raph-domains.pdf)|
