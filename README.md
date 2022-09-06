@@ -279,6 +279,8 @@ LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation 
 
 Self-supervised Learning for Large-scale Item Recommendations (CIKM'21): [paper](https://dl.acm.org/doi/pdf/10.1145/3459637.3481952)
 
+SGL: Self-supervised Graph Learning for Recommendation (SIGIR'21): [paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3462862)
+
 **Survey**
 
 Graph Embedding Techniques, Applications, and Performance: A Survey (2017): [paper](https://arxiv.org/pdf/1705.02801.pdf)
