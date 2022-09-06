@@ -241,7 +241,7 @@ Anonymous Walk Embeddings (ICML'18): [paper](https://arxiv.org/pdf/1805.11921.pd
 
 **Model**
 | Name | Paper Link | Code Link | Blog Link  |
-| ---  | ---- | ---- | ---- |
+|:--------:|:--------:|:--------:|:--------:|
 | DGCN: Diffusion-convolutional neural networks (NeurIPS'16) | [paper](https://arxiv.org/pdf/1511.02136.pdf) |
 
 | ChebNet: Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering (NeurIPS'16) | [paper](https://arxiv.org/pdf/1606.09375.pdf) | [blog](https://ok-lab.tistory.com/221?category=940094) | - |
@@ -284,7 +284,7 @@ Anonymous Walk Embeddings (ICML'18): [paper](https://arxiv.org/pdf/1805.11921.pd
 
 **Survey**
 | Name | Paper Link |
-| ---  | ---- |
+|:--------:|:--------:|
 | Graph Embedding Techniques, Applications, and Performance: A Survey (2017) | [paper](https://arxiv.org/pdf/1705.02801.pdf) |
 
 | A Survey on Influence Maximization in a Social Network (2018) | [paper](https://arxiv.org/pdf/1808.05502.pdf) |
@@ -297,5 +297,5 @@ Anonymous Walk Embeddings (ICML'18): [paper](https://arxiv.org/pdf/1805.11921.pd
 **Others**
 
 | Name | Paper Link |
-| ---  | ---- |
+|:--------:|:--------:|
 |A New Models for Learning in Graph Domains (IJCNN'05)| [paper](https://www.researchgate.net/profile/Franco-Scarselli/publication/4202380_A_new_model_for_earning_in_raph_domains/links/0c9605188cd580504f000000/A-new-model-for-earning-in-raph-domains.pdf)|
