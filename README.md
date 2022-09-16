@@ -271,7 +271,12 @@ Design Space of Graph Neural Networks: [youtube](https://www.youtube.com/watch?v
 ***Recommender Systems***
 | Name | Paper Link | Code Link | Blog Link  |
 | ---- |:--------:|:--------:|:--------:|
+| Representing and Recommending Shopping Baskets with Complementarity, Compatibility and Loyalty (CIKM'18) | [paper](https://dl.acm.org/doi/pdf/10.1145/3269206.3271786) - |
 | NGCF: Neural Graph Collaborative Filtering (SIGIR'19) | [paper](https://arxiv.org/pdf/1905.08108.pdf)| [blog](https://ok-lab.tistory.com/204?category=940094) | - |
+| Graph Convolutional Network for Recommendation with Low-pass Collaborative Filters (PRML'20) | [paper](http://proceedings.mlr.press/v119/yu20e/yu20e.pdf)| - |
 | LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation (SIGIR'20) | [paper](https://arxiv.org/pdf/2002.02126.pdf) | [blog](https://ok-lab.tistory.com/200?category=940094) | - |
+| MixGCF: An Improved Training Method for Graph Neural Network-based Recommender Systems (KDD'21) | [paper](https://dl.acm.org/doi/pdf/10.1145/3447548.3467408) | - |
+| UltraGCN: Ultra Simplification of Graph Convolutional Networks for Recommendation (CIKM'21) | [paper](https://dl.acm.org/doi/pdf/10.1145/3459637.3482291) | - |
 | Self-supervised Learning for Large-scale Item Recommendations (CIKM'21) | [paper](https://dl.acm.org/doi/pdf/10.1145/3459637.3481952) | - | - |
 | SGL: Self-supervised Graph Learning for Recommendation (SIGIR'21) | [paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3462862) | - | - |
+| Are Graph Augmentations Necessary?: Simple Graph Contrastive Learning for Recommendation (SIGIR'22) | [paper](https://dl.acm.org/doi/pdf/10.1145/3477495.3531937) | - |
