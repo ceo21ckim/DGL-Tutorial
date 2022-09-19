@@ -264,7 +264,7 @@ Design Space of Graph Neural Networks: [youtube](https://www.youtube.com/watch?v
 | ---- |:--------:|
 |A New Models for Learning in Graph Domains (IJCNN'05)| [paper](https://www.researchgate.net/profile/Franco-Scarselli/publication/4202380_A_new_model_for_earning_in_raph_domains/links/0c9605188cd580504f000000/A-new-model-for-earning-in-raph-domains.pdf)|
 |Disinformation on the Web: Impact, Characteristics, and Detection of Wikipedia Hoaxes (WWW'16)| [paper](https://dl.acm.org/doi/pdf/10.1145/2872427.2883085)|
-|Model Degradation Hinders Deep Graph Neural Networks (KDD'22) | [paper] (https://arxiv.org/pdf/2206.04361.pdf) |
+|Model Degradation Hinders Deep Graph Neural Networks (KDD'22) | [paper](https://arxiv.org/pdf/2206.04361.pdf) |
 
 ***Recommender Systems***
 | Name | Paper Link | Code Link | Blog Link  |
