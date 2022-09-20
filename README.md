@@ -249,6 +249,7 @@ Design Space of Graph Neural Networks: [youtube](https://www.youtube.com/watch?v
 | APPNP: Predict then Propagate: Graph Neural Networks meet Personalized PageRank (ICLR'19)| [paper](https://arxiv.org/pdf/1810.05997.pdf) | - | - |
 | Diffusion Improves Graph Learning (NeurIPS'19) | [paper](https://arxiv.org/pdf/1911.05485.pdf) | - | - |
 | GNNExplainer: Generating Explanations for Graph Neural Networks (NeurIPS'19) | [paper](https://arxiv.org/pdf/1903.03894.pdf) | - | - |
+| DeepGCNs: Can GCNs Go as Deep as CNNs? (ICCV'19) | [paper](https://arxiv.org/pdf/1904.03751.pdf) | - | - |
 | KGCN: Knowledge Graph Convolutional Networks for Recommender (WWW'19) | [paper](https://arxiv.org/pdf/1904.12575.pdf) | - | - |
 | NDLS: Node Dependent Local Smoothing for Scalable Graph Learning (NeurIPS'21) | [paper](https://proceedings.neurips.cc/paper/2021/file/a9eb812238f753132652ae09963a05e9-Paper.pdf) | - | - |
 | GemNet: Universal Directional Graph Neural Networks for Molecules (NeurIPS'21) | [paper](https://arxiv.org/pdf/2106.08903.pdf) | - | - |
@@ -270,6 +271,7 @@ Design Space of Graph Neural Networks: [youtube](https://www.youtube.com/watch?v
 | :---- |:--------:|
 |A New Models for Learning in Graph Domains (IJCNN'05)| [paper](https://www.researchgate.net/profile/Franco-Scarselli/publication/4202380_A_new_model_for_earning_in_raph_domains/links/0c9605188cd580504f000000/A-new-model-for-earning-in-raph-domains.pdf)|
 |Disinformation on the Web: Impact, Characteristics, and Detection of Wikipedia Hoaxes (WWW'16) | [paper](https://dl.acm.org/doi/pdf/10.1145/2872427.2883085)|
+|Deeper insights into graph convolutional networks for semi-supervised learning (AAAI'18) | [paper](https://dl.acm.org/doi/pdf/10.5555/3504035.3504468) | 
 | Directional Message Passing for Molecular Graphs (ICLR'20) | [paper](https://arxiv.org/pdf/2003.03123.pdf) |
 |Model Degradation Hinders Deep Graph Neural Networks (KDD'22) | [paper](https://arxiv.org/pdf/2206.04361.pdf) |
 
