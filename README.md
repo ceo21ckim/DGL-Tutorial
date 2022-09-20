@@ -216,7 +216,7 @@ Design Space of Graph Neural Networks: [youtube](https://www.youtube.com/watch?v
 
 **Embedding**
 | Name | Paper Link |
-| :- |:-:|
+| :--------------------------------- |:-:|
 |DeepWalk: online learning of social representations (KDD'14) | [paper](https://arxiv.org/pdf/1403.6652.pdf)|
 |LINE: Large-scale Information Network Embedding (WWW'15)| [paper](https://arxiv.org/pdf/1503.03578.pdf)|
 |Convolutional Networks on Graphs for Learning Molecular Fingerprints (NeurIPS'15)| [paper](https://arxiv.org/pdf/1509.09292.pdf)|
