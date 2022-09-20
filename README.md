@@ -1,7 +1,8 @@
-table {
-  width:100%;
-}
-
+<style>
+  table {
+    width:100%;
+  }
+</style>
 
 # DGL
 
