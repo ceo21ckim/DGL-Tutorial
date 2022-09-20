@@ -239,6 +239,7 @@ Design Space of Graph Neural Networks: [youtube](https://www.youtube.com/watch?v
 | GCN: Semi-supervised Classification with Graph Convolutional Networks (ICLR'17) | [paper](https://arxiv.org/pdf/1609.02907.pdf)              | [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/GraphConv/Implementation.ipynb) | [blog](https://ok-lab.tistory.com/205?category=940094) |
 | MPNN: Neural Message Passing for Quantum Chemistry (PMLR'17) | [paper](https://arxiv.org/pdf/1704.01212.pdf) | - | - |
 | GraphSAGE: Inductive Representation Learning on Large Graphs (NeurIPS'17) | [paper](https://arxiv.org/pdf/1706.02216.pdf) | - | - |
+| Densely Connected Convolutional Networks (CVPR'17) | [paper](https://arxiv.org/pdf/1608.06993v5.pdf) | - | - |
 | GAT: Graph Attention Networks (ICLR'18) | [paper](https://arxiv.org/pdf/1710.10903.pdf) | - | [blog](https://ok-lab.tistory.com/225?category=940094) |
 | GCMC: Graph Convolutional Matrix Completion (KDD'18) | [paper](https://arxiv.org/pdf/1706.02263.pdf) | [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/GCMC/RecSys(GCMC).ipynb) | - |
 | SEAL: Link Prediction Based on Graph Neural Networks (NeurIPS'18) | [paper](https://papers.nips.cc/paper/2018/file/53f0d7c537d99b3824f0f99d62ea2428-Paper.pdf) | - | - |
