@@ -235,7 +235,7 @@ Design Space of Graph Neural Networks: [youtube](https://www.youtube.com/watch?v
 | ---- |:--------:|:--------:|:--------:|
 | DGCN: Diffusion-convolutional neural networks (NeurIPS'16) | [paper](https://arxiv.org/pdf/1511.02136.pdf) |
 | ChebNet: Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering (NeurIPS'16) | [paper](https://arxiv.org/pdf/1606.09375.pdf) | - | [blog](https://ok-lab.tistory.com/221?category=940094) |
-| GCN: Semi-supervised Classification with Graph Convolutional Networks (ICLR'17) | [paper](https://arxiv.org/pdf/1609.02907.pdf) | [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/GraphConv/Implementation.ipynb) | [blog](https://ok-lab.tistory.com/205?category=940094) |
+| GCN: Semi-supervised Classification with Graph Convolutional Networks (ICLR'17) | [paper](https://arxiv.org/pdf/1609.02907.pdf)              | [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/GraphConv/Implementation.ipynb) | [blog](https://ok-lab.tistory.com/205?category=940094) |
 | MPNN: Neural Message Passing for Quantum Chemistry (PMLR'17) | [paper](https://arxiv.org/pdf/1704.01212.pdf) | - | - |
 | GraphSAGE: Inductive Representation Learning on Large Graphs (NeurIPS'17) | [paper](https://arxiv.org/pdf/1706.02216.pdf) | - | - |
 | GAT: Graph Attention Networks (ICLR'18) | [paper](https://arxiv.org/pdf/1710.10903.pdf) | - | [blog](https://ok-lab.tistory.com/225?category=940094) |
@@ -263,7 +263,7 @@ Design Space of Graph Neural Networks: [youtube](https://www.youtube.com/watch?v
 | Name | Paper Link |
 | ---- |:--------:|
 |A New Models for Learning in Graph Domains (IJCNN'05)| [paper](https://www.researchgate.net/profile/Franco-Scarselli/publication/4202380_A_new_model_for_earning_in_raph_domains/links/0c9605188cd580504f000000/A-new-model-for-earning-in-raph-domains.pdf)|
-|Disinformation on the Web: Impact, Characteristics, and Detection of Wikipedia Hoaxes (WWW'16)| [paper](https://dl.acm.org/doi/pdf/10.1145/2872427.2883085)|
+|Disinformation on the Web: Impact, Characteristics, and Detection of Wikipedia Hoaxes (WWW'16)          | [paper](https://dl.acm.org/doi/pdf/10.1145/2872427.2883085)|
 |Model Degradation Hinders Deep Graph Neural Networks (KDD'22) | [paper](https://arxiv.org/pdf/2206.04361.pdf) |
 
 ***Recommender Systems***
