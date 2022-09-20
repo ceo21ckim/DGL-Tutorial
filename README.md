@@ -216,7 +216,7 @@ Design Space of Graph Neural Networks: [youtube](https://www.youtube.com/watch?v
 
 **Embedding**
 | Name | Paper Link |
-| ---- |:--------:|
+| :---- |:--------:|
 |DeepWalk: online learning of social representations (KDD'14) | [paper](https://arxiv.org/pdf/1403.6652.pdf)|
 |LINE: Large-scale Information Network Embedding (WWW'15)| [paper](https://arxiv.org/pdf/1503.03578.pdf)|
 |Convolutional Networks on Graphs for Learning Molecular Fingerprints (NeurIPS'15)| [paper](https://arxiv.org/pdf/1509.09292.pdf)|
@@ -232,7 +232,7 @@ Design Space of Graph Neural Networks: [youtube](https://www.youtube.com/watch?v
 
 **Model**
 | Name | Paper Link | Code Link | Blog Link  |
-| ---- |:--------:|:--------:|:--------:|
+| :---- |:--------:|:--------:|:--------:|
 | DGCN: Diffusion-convolutional neural networks (NeurIPS'16) | [paper](https://arxiv.org/pdf/1511.02136.pdf) |
 | ChebNet: Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering (NeurIPS'16) | [paper](https://arxiv.org/pdf/1606.09375.pdf) | - | [blog](https://ok-lab.tistory.com/221?category=940094) |
 | GCN: Semi-supervised Classification with Graph Convolutional Networks (ICLR'17) | [paper](https://arxiv.org/pdf/1609.02907.pdf)              | [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/GraphConv/Implementation.ipynb) | [blog](https://ok-lab.tistory.com/205?category=940094) |
@@ -251,7 +251,7 @@ Design Space of Graph Neural Networks: [youtube](https://www.youtube.com/watch?v
 
 **Survey**
 | Name | Paper Link |
-| ---- |:--------:|
+| :---- |:--------:|
 | Graph Embedding Techniques, Applications, and Performance: A Survey (2017) | [paper](https://arxiv.org/pdf/1705.02801.pdf) |
 | A Survey on Influence Maximization in a Social Network (2018) | [paper](https://arxiv.org/pdf/1808.05502.pdf) |
 | Random Graph Modeling: A Survey of the Concepts (2019) | [paper](https://dl.acm.org/doi/pdf/10.1145/3369782) |
@@ -261,14 +261,14 @@ Design Space of Graph Neural Networks: [youtube](https://www.youtube.com/watch?v
 **Others**
 
 | Name | Paper Link |
-| ---- |:--------:|
+| :---- |:--------:|
 |A New Models for Learning in Graph Domains (IJCNN'05)| [paper](https://www.researchgate.net/profile/Franco-Scarselli/publication/4202380_A_new_model_for_earning_in_raph_domains/links/0c9605188cd580504f000000/A-new-model-for-earning-in-raph-domains.pdf)|
 |Disinformation on the Web: Impact, Characteristics, and Detection of Wikipedia Hoaxes (WWW'16)          | [paper](https://dl.acm.org/doi/pdf/10.1145/2872427.2883085)|
 |Model Degradation Hinders Deep Graph Neural Networks (KDD'22) | [paper](https://arxiv.org/pdf/2206.04361.pdf) |
 
 ***Recommender Systems***
 | Name | Paper Link | Code Link | Blog Link  |
-| ---- |:--------:|:--------:|:--------:|
+| :---- |:--------:|:--------:|:--------:|
 | Representing and Recommending Shopping Baskets with Complementarity, Compatibility and Loyalty (CIKM'18) | [paper](https://dl.acm.org/doi/pdf/10.1145/3269206.3271786) | - | - |
 | NGCF: Neural Graph Collaborative Filtering (SIGIR'19) | [paper](https://arxiv.org/pdf/1905.08108.pdf)| [blog](https://ok-lab.tistory.com/204?category=940094) | - |
 | Graph Convolutional Network for Recommendation with Low-pass Collaborative Filters (PRML'20) | [paper](http://proceedings.mlr.press/v119/yu20e/yu20e.pdf)| - | - |
