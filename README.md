@@ -216,11 +216,6 @@ Design Space of Graph Neural Networks: [youtube](https://www.youtube.com/watch?v
 ## Paper ##
 
 **Embedding**
-
-<style>
-  table {
-    width:100%;
-    }
 | Name | Paper Link |
 | :--------------------------------- |:-:|
 |DeepWalk: online learning of social representations (KDD'14) | [paper](https://arxiv.org/pdf/1403.6652.pdf)|
@@ -235,7 +230,6 @@ Design Space of Graph Neural Networks: [youtube](https://www.youtube.com/watch?v
 |Watch Your Step: Learning Node Embedding via Graph Attention (NeurIPS'18)| [paper](https://arxiv.org/pdf/1710.09599.pdf)|
 |Anonymous Walk Embeddings (ICML'18)| [paper](https://arxiv.org/pdf/1805.11921.pdf)|
 
-</style>
 
 **Model**
 | Name | Paper Link | Code Link | Blog Link  |
