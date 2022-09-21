@@ -80,7 +80,6 @@ This Repository is organizing of accepted paper at the Conference such as `SIGIR
 - [User-Event Graph Embedding Learning for Context-Aware Recommendation](https://dl.acm.org/doi/pdf/10.1145/3534678.3539458)
 - [SMORE: Knowledge Graph Completion and Multi-hop Reasoning in Massive Knowledge Graphs](https://dl.acm.org/doi/pdf/10.1145/3534678.3539405)
 - [Mining Spatio-Temporal Relations via Self-Paced Graph Contrastive Learning](https://dl.acm.org/doi/pdf/10.1145/3534678.3539422)
-
 - [Motif Prediction with Graph Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3534678.3539343)
 - [Efficient Join Order Selection Learning with Graph-based Representation](https://dl.acm.org/doi/pdf/10.1145/3534678.3539303)
 - [Learning Binarized Graph Representations with Multi-faceted Quantization Reinforcement for Top-K Recommendation](https://dl.acm.org/doi/pdf/10.1145/3534678.3539452)
