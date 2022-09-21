@@ -1,4 +1,4 @@
-This Repository is organizing of accepted paper at the Conference such as `SIGIR`, `KDD`, `Recsys`, `CIKM`, `etc`
+This Repository is organizing of accepted paper at the Conference such as `SIGIR`, `KDD`, `Recsys`, `WWW`, `IJCAI`
 
 
 ## SIGIR 2022
@@ -130,3 +130,88 @@ This Repository is organizing of accepted paper at the Conference such as `SIGIR
 - [Learning Sparse Latent Graph Representations for Anomaly Detection in Multivariate Time Series](https://dl.acm.org/doi/pdf/10.1145/3534678.3539117)
 - [Friend Recommendations with Self-Rescaling Graph Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3534678.3539192)
 - [TAG: Toward Accurate Social Media Content Tagging with a Concept Graph](https://dl.acm.org/doi/pdf/10.1145/3534678.3539077)
+
+
+## WWW 2022
+
+- [Efficient and Effective Similarity Search over Bipartite Graphs](https://dl.acm.org/doi/pdf/10.1145/3485447.3511959)
+- [ALLIE: Active Learning on Large-scale Imbalanced Graphs](https://dl.acm.org/doi/pdf/10.1145/3485447.3512229)
+- [Path Language Modeling over Knowledge Graphs for Explainable Recommendation](https://dl.acm.org/doi/pdf/10.1145/3485447.3511937)
+- [SelfKG: Self-Supervised Entity Alignment in Knowledge Graphs](https://dl.acm.org/doi/pdf/10.1145/3485447.3511945)
+- [Swift and Sure: Hardness-aware Contrastive Learning for Low-dimensional Knowledge Graph Embeddings](https://dl.acm.org/doi/pdf/10.1145/3485447.3511927)
+- [A New Dynamic Algorithm for Densest Subhypergraphs](https://dl.acm.org/doi/pdf/10.1145/3485447.3512158)
+- [An Invertible Graph Diffusion Neural Network for Source Localization](https://dl.acm.org/doi/pdf/10.1145/3485447.3512155)
+- [Adversarial Graph Contrastive Learning with Information Regularization](https://dl.acm.org/doi/pdf/10.1145/3485447.3512183)
+- [AUC-oriented Graph Neural Network for Fraud Detection](https://dl.acm.org/doi/pdf/10.1145/3485447.3512178)
+- [Augmentations in Graph Contrastive Learning: Current Methodological Flaws & Towards Better Practices](https://dl.acm.org/doi/pdf/10.1145/3485447.3512200)
+- [CGC: Contrastive Graph Clustering forCommunity Detection and Tracking](https://dl.acm.org/doi/pdf/10.1145/3485447.3512160)
+- [ClusterSCL: Cluster-Aware Supervised Contrastive Learning on Graphs](https://dl.acm.org/doi/pdf/10.1145/3485447.3512207)
+- [Confidence May Cheat: Self-Training on Graph Neural Networks under Distribution Shift](https://dl.acm.org/doi/pdf/10.1145/3485447.3512172)
+- [Curvature Graph Generative Adversarial Networks](https://dl.acm.org/doi/pdf/10.1145/3485447.3512199)
+- [Designing the Topology of Graph Neural Networks: A Novel Feature Fusion Perspective](https://dl.acm.org/doi/pdf/10.1145/3485447.3512185)
+- [Dual Space Graph Contrastive Learning](https://dl.acm.org/doi/pdf/10.1145/3485447.3512211)
+- [EDITS: Modeling and Mitigating Data Bias for Graph Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3485447.3512173)
+- [GBK-GNN: Gated Bi-Kernel Graph Neural Networks for Modeling Both Homophily and Heterophily](https://dl.acm.org/doi/pdf/10.1145/3485447.3512201)
+- [Generating Simple Directed Social Network Graphs for Information Spreading](https://dl.acm.org/doi/pdf/10.1145/3485447.3512194)
+- [Geometric Graph Representation Learning via Maximizing Rate Reduction](https://dl.acm.org/doi/pdf/10.1145/3485447.3512170)
+- [Graph Communal Contrastive Learning](https://dl.acm.org/doi/pdf/10.1145/3485447.3512208)
+- [Graph Neural Network for Higher-Order Dependency Networks](https://dl.acm.org/doi/pdf/10.1145/3485447.3512161)
+- [Graph Neural Networks Beyond Compromise Between Attribute and Topology](https://dl.acm.org/doi/pdf/10.1145/3485447.3512069)
+- [Graph Sanitation with Application to Node Classification](https://dl.acm.org/doi/pdf/10.1145/3485447.3512180)
+- [Graph-adaptive Rectified Linear Unit for Graph Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3485447.3512159)
+- [Inflation Improves Graph Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3485447.3512193)
+- [Model-Agnostic Augmentation for Accurate Graph Classification](https://dl.acm.org/doi/pdf/10.1145/3485447.3512175)
+- [Multimodal Continual Graph Learning with Neural Architecture Search](https://dl.acm.org/doi/pdf/10.1145/3485447.3512176)
+- [On Size-Oriented Long-Tailed Graph Classification of Graph Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3485447.3512197)
+- [Polarized Graph Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3485447.3512187)
+- [RawlsGCN: Towards Rawlsian Difference Principle on Graph Convolutional Network](https://dl.acm.org/doi/pdf/10.1145/3485447.3512169)
+- [Robust Self-Supervised Structural Graph Neural Network for Social Network Prediction](https://dl.acm.org/doi/pdf/10.1145/3485447.3512182)
+- [SimGRACE: A Simple Framework for Graph Contrastive Learning without Data Augmentation](https://dl.acm.org/doi/pdf/10.1145/3485447.3512156)
+- [Towards Unsupervised Deep Graph Structure Learning](https://dl.acm.org/doi/pdf/10.1145/3485447.3512186)
+- [TREND: TempoRal Event and Node Dynamics for Graph Representation Learning](https://dl.acm.org/doi/pdf/10.1145/3485447.3512164)
+- [Graph-based Extractive Explainer for Recommendations](https://dl.acm.org/doi/pdf/10.1145/3485447.3512168)
+- [GSL4Rec: Session-based Recommendations with Collective Graph Structure Learning and Next Interaction Prediction](https://dl.acm.org/doi/pdf/10.1145/3485447.3512085)
+- [Hypercomplex Graph Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3485447.3512065)
+- [GraphNLI: A Graph-based Natural Language Inference Model for Polarity Prediction in Online Debates](https://dl.acm.org/doi/pdf/10.1145/3485447.3512144)
+- [Revisiting Graph based Social Recommendation: A Distillation Enhanced Social Graph Network](https://dl.acm.org/doi/pdf/10.1145/3485447.3512003)
+- [Rumor Detection on Social Media with Graph Adversarial Contrastive Learning](https://dl.acm.org/doi/pdf/10.1145/3485447.3511999)
+- [STAM: A Spatiotemporal Aggregation Method for Graph Neural Network-based Recommendation](https://dl.acm.org/doi/pdf/10.1145/3485447.3512041)
+- [VisGNN: Personalized Visualization Recommendationvia Graph Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3485447.3512001)
+- [Link Recommendations for PageRank Fairness](https://dl.acm.org/doi/pdf/10.1145/3485447.3512249)
+
+
+## IJCAI 2022
+
+- [Spiking Graph Convolutional Networks](https://arxiv.org/pdf/2205.02767.pdf)
+- [Ensemble Multi-Relational Graph Neural Networks](https://arxiv.org/pdf/2205.12076.pdf)
+- [Stabilizing and Enhancing Link Prediction through Deepened Graph Auto-Encoders](https://www.ijcai.org/proceedings/2022/0498.pdf)
+- [Augmenting Knowledge Graphs for Better Link Prediction](https://arxiv.org/pdf/2203.13965.pdf)
+- [Hierarchical Diffusion Scattering Graph Neural Network](https://www.ijcai.org/proceedings/2022/0519.pdf)
+- [Data-Free Adversarial Knowledge Distillation for Graph Neural Networks](https://arxiv.org/pdf/2205.03811.pdf)
+- [Enhancing Sequential Recommendation with Graph Contrastive Learning](https://arxiv.org/pdf/2205.14837.pdf)
+- [RecipeRec: A Heterogeneous Graph Learning Model for Recipe Recommendation](https://arxiv.org/pdf/2205.14005.pdf)
+- [Contrastive Graph Transformer Network for Personality Detection](https://www.ijcai.org/proceedings/2022/0633.pdf)
+- [SGAT: Simplicial Graph Attention Network](https://arxiv.org/pdf/2207.11761.pdf)
+- [Recipe2Vec: Multi-modal Recipe Representation Learning with Graph Neural Networks](https://arxiv.org/pdf/2205.12396.pdf)
+- [Self-supervised Graph Neural Networks for Multi-behavior Recommendation](http://www.shichuan.org/doc/134.pdf)
+
+
+## WSDM 2022
+
+- [HeteroQA: Learning towards Question-and-Answering through Multiple Information Sources via Heterogeneous Graph Modeling](https://dl.acm.org/doi/pdf/10.1145/3488560.3498378)
+- [A Neighborhood-Attention Fine-grained Entity Typing for Knowledge Graph Completion](https://dl.acm.org/doi/pdf/10.1145/3488560.3498395)
+- [Friend Story Ranking with Edge-Contextual Local Graph Convolutions](https://dl.acm.org/doi/pdf/10.1145/3488560.3498398)
+- [Graph Collaborative Reasoning](https://dl.acm.org/doi/pdf/10.1145/3488560.3498410)
+- [Triangle Graph Interest Network for Click-through Rate Prediction](https://dl.acm.org/doi/pdf/10.1145/3488560.3498458)
+- [Community Trend Prediction on Heterogeneous Graph in E-commerce](https://dl.acm.org/doi/pdf/10.1145/3488560.3498522)
+- [Profiling the Design Space for Graph Neural Networks based Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3488560.3498520)
+
+
+
+
+
+
+
+
+
+
