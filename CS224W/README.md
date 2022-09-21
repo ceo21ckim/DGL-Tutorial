@@ -10,7 +10,7 @@
 | [Traditional feature-based methods: Link-level features](https://www.youtube.com/watch?v=4dVwlE9jYxY&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=5)| [blog](https://ok-lab.tistory.com/216#Link-Level_feature) |
 | [Traditional feature-based methods: Graph-level features](https://www.youtube.com/watch?v=buzsHTa4Hgs&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=6) | [blog](https://ok-lab.tistory.com/217) |
 |Lecture 3| [Node Embedding](https://www.youtube.com/watch?v=Xv0wRy66Big&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=7) | [blog](https://ok-lab.tistory.com/218?category=937496) |
-|| [Random Walk Approaches for Node Embeddings](https://www.youtube.com/watch?v=Xv0wRy66Big&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=8) | [blog](https://ok-lab.tistory.com/218?category=937496)
+|| [Random Walk Approaches for Node Embeddings](https://www.youtube.com/watch?v=Xv0wRy66Big&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=8) | [blog](https://ok-lab.tistory.com/218?category=937496)|
 
 |[Embedding Entre Graphs](https://www.youtube.com/watch?v=eliMLfJeu7A&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=9) | [blog](https://ok-lab.tistory.com/222)|
 |Lecture 4| [PageRank](https://www.youtube.com/watch?v=TU0ankRcHmo&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=10) | [blog](https://ok-lab.tistory.com/223)|
