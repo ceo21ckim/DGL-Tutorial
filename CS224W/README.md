@@ -35,7 +35,7 @@
 | **Lecture 8** ||
 |[Graph Augmentation for GNNs](https://www.youtube.com/watch?v=TU0ankRcHmo&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=23)| - |
 |[Training Graph Neural Networks](https://www.youtube.com/watch?v=TU0ankRcHmo&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=24)| - |
-|[Setting up GNN Prediction Tasks]](https://www.youtube.com/watch?v=TU0ankRcHmo&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=25)| - |
+|[Setting up GNN Prediction Tasks](https://www.youtube.com/watch?v=TU0ankRcHmo&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=25)| - |
 | **Lecture 9** ||
 |[How Expressive are Graph Neural Networks](https://www.youtube.com/watch?v=TU0ankRcHmo&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=26)| - |
 |[Designing the Most Powerful GNNs](https://www.youtube.com/watch?v=TU0ankRcHmo&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=27)| - |
