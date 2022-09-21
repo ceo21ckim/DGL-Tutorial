@@ -2,7 +2,7 @@
 ## CS224W
 
 |**Title** | Blog Link |
-| :-----: | :---------: |
+| :----- | :---------: |
 | Lecture 2 ||
 |[Why Graphs](https://www.youtube.com/watch?v=QUO-HQ44EDc&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=1)| - |
 |[Application of Graph ML](https://www.youtube.com/watch?v=aBHC6xzx9YI&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=2) | [blog](https://ok-lab.tistory.com/184)|
