@@ -1,4 +1,4 @@
-This Repository is organizing of accepted paper at the Conference such as `SIGIR`, `KDD`, `Recsys`, `WWW`, `IJCAI`, `CVPR`, `ICLR`
+This Repository is organizing of accepted paper at the Conference such as `SIGIR`, `KDD`, `Recsys`, `WWW`, `IJCAI`, `CVPR`, `ICLR`.
 
 
 ## SIGIR 2022
