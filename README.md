@@ -116,8 +116,8 @@ jupyter notebook --ip=0.0.0.0 --port=8888 --allow-root
 |Model Degradation Hinders Deep Graph Neural Networks (KDD'22) | [paper](https://arxiv.org/pdf/2206.04361.pdf) |
 
 ***Recommender Systems***
-| Name | Paper Link | Code Link | Blog Link  |
-| :---- |:--------:|:--------:|:--------:|
+| Name | Paper Link |
+| :---- |:--------:|
 | Representing and Recommending Shopping Baskets with Complementarity, Compatibility and Loyalty (CIKM'18) | [paper](https://dl.acm.org/doi/pdf/10.1145/3269206.3271786) |
 | NGCF: Neural Graph Collaborative Filtering (SIGIR'19) | [paper](https://arxiv.org/pdf/1905.08108.pdf)|
 | Graph Convolutional Network for Recommendation with Low-pass Collaborative Filters (PRML'20) | [paper](http://proceedings.mlr.press/v119/yu20e/yu20e.pdf)|
