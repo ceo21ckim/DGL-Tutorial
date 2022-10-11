@@ -96,25 +96,6 @@ jupyter notebook --ip=0.0.0.0 --port=8888 --allow-root
 | Model Degradation Hinders Deep Graph Neural Networks (KDD'22) | [paper](https://arxiv.org/pdf/2206.04361.pdf) | - | - |
 | TokenGT: Pure Transformers are Powerful Graph Learners | [paper](https://arxiv.org/pdf/2207.02505.pdf) | - | - |
 
-**Survey**
-| Name | Paper Link |
-| :---- |:--------:|
-| Graph Embedding Techniques, Applications, and Performance: A Survey (2017) | [paper](https://arxiv.org/pdf/1705.02801.pdf) |
-| A Survey on Influence Maximization in a Social Network (2018) | [paper](https://arxiv.org/pdf/1808.05502.pdf) |
-| Random Graph Modeling: A Survey of the Concepts (2019) | [paper](https://dl.acm.org/doi/pdf/10.1145/3369782) |
-| A Comprehensive Survey on Graph Neural Networks (2019) | [paper](https://arxiv.org/pdf/1901.00596.pdf) |
-
-
-**Others**
-
-| Name | Paper Link |
-| :---- |:--------:|
-|A New Models for Learning in Graph Domains (IJCNN'05)| [paper](https://www.researchgate.net/profile/Franco-Scarselli/publication/4202380_A_new_model_for_earning_in_raph_domains/links/0c9605188cd580504f000000/A-new-model-for-earning-in-raph-domains.pdf)|
-|Disinformation on the Web: Impact, Characteristics, and Detection of Wikipedia Hoaxes (WWW'16) | [paper](https://dl.acm.org/doi/pdf/10.1145/2872427.2883085)|
-|Deeper insights into graph convolutional networks for semi-supervised learning (AAAI'18) | [paper](https://dl.acm.org/doi/pdf/10.5555/3504035.3504468) | 
-| Directional Message Passing for Molecular Graphs (ICLR'20) | [paper](https://arxiv.org/pdf/2003.03123.pdf) |
-|Model Degradation Hinders Deep Graph Neural Networks (KDD'22) | [paper](https://arxiv.org/pdf/2206.04361.pdf) |
-
 ***Recommender Systems***
 | Name | Paper Link |
 | :---- |:--------:|
@@ -127,3 +108,24 @@ jupyter notebook --ip=0.0.0.0 --port=8888 --allow-root
 | Self-supervised Learning for Large-scale Item Recommendations (CIKM'21) | [paper](https://dl.acm.org/doi/pdf/10.1145/3459637.3481952) |
 | SGL: Self-supervised Graph Learning for Recommendation (SIGIR'21) | [paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3462862) |
 | Are Graph Augmentations Necessary?: Simple Graph Contrastive Learning for Recommendation (SIGIR'22) | [paper](https://dl.acm.org/doi/pdf/10.1145/3477495.3531937) |
+
+
+**Others**
+
+| Name | Paper Link |
+| :---- |:--------:|
+|A New Models for Learning in Graph Domains (IJCNN'05)| [paper](https://www.researchgate.net/profile/Franco-Scarselli/publication/4202380_A_new_model_for_earning_in_raph_domains/links/0c9605188cd580504f000000/A-new-model-for-earning-in-raph-domains.pdf)|
+|Disinformation on the Web: Impact, Characteristics, and Detection of Wikipedia Hoaxes (WWW'16) | [paper](https://dl.acm.org/doi/pdf/10.1145/2872427.2883085)|
+|Deeper insights into graph convolutional networks for semi-supervised learning (AAAI'18) | [paper](https://dl.acm.org/doi/pdf/10.5555/3504035.3504468) | 
+| Directional Message Passing for Molecular Graphs (ICLR'20) | [paper](https://arxiv.org/pdf/2003.03123.pdf) |
+|Model Degradation Hinders Deep Graph Neural Networks (KDD'22) | [paper](https://arxiv.org/pdf/2206.04361.pdf) |
+
+***Survey***
+| Name | Paper Link |
+| :---- |:--------:|
+| Graph Embedding Techniques, Applications, and Performance: A Survey (2017) | [paper](https://arxiv.org/pdf/1705.02801.pdf) |
+| A Survey on Influence Maximization in a Social Network (2018) | [paper](https://arxiv.org/pdf/1808.05502.pdf) |
+| Random Graph Modeling: A Survey of the Concepts (2019) | [paper](https://dl.acm.org/doi/pdf/10.1145/3369782) |
+| A Comprehensive Survey on Graph Neural Networks (2019) | [paper](https://arxiv.org/pdf/1901.00596.pdf) |
+
+
