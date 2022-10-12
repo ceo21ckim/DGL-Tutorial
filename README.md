@@ -61,6 +61,7 @@ jupyter notebook --ip=0.0.0.0 --port=8888 --allow-root
 | DGCN | Diffusion-convolutional neural networks (NeurIPS'16) | [paper](https://arxiv.org/pdf/1511.02136.pdf) |
 |ChebNet | Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering (NeurIPS'16) | [paper](https://arxiv.org/pdf/1606.09375.pdf) | - |
 | GCN | Semi-supervised Classification with Graph Convolutional Networks (ICLR'17) | [paper](https://arxiv.org/pdf/1609.02907.pdf)              | [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/GraphConv/Implementation.ipynb) |
+| R-GCN | Modeling Relational Data with Graph Convolutional Networks (ESWC'17) | [paper](https://arxiv.org/pdf/1703.06103.pdf) | - |
 | MPNN | Neural Message Passing for Quantum Chemistry (PMLR'17) | [paper](https://arxiv.org/pdf/1704.01212.pdf) | - |
 | GraphSAGE | Inductive Representation Learning on Large Graphs (NeurIPS'17) | [paper](https://arxiv.org/pdf/1706.02216.pdf) | - |
 | GAT | Graph Attention Networks (ICLR'18) | [paper](https://arxiv.org/pdf/1710.10903.pdf) | - |
