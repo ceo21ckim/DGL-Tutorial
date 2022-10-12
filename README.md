@@ -56,30 +56,30 @@ jupyter notebook --ip=0.0.0.0 --port=8888 --allow-root
 ## Paper ##
 
 **Model**
-| Name | Paper Link | Code Link | Blog Link  |
-| :---- |:--------:|:--------:|:--------:|
+| Name | Paper Link | Code Link |
+| :---- |:--------:|:--------:|
 | DGCN: Diffusion-convolutional neural networks (NeurIPS'16) | [paper](https://arxiv.org/pdf/1511.02136.pdf) |
-| ChebNet: Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering (NeurIPS'16) | [paper](https://arxiv.org/pdf/1606.09375.pdf) | - | [blog](https://ok-lab.tistory.com/221?category=940094) |
-| GCN: Semi-supervised Classification with Graph Convolutional Networks (ICLR'17) | [paper](https://arxiv.org/pdf/1609.02907.pdf)              | [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/GraphConv/Implementation.ipynb) | [blog](https://ok-lab.tistory.com/205?category=940094) |
-| MPNN: Neural Message Passing for Quantum Chemistry (PMLR'17) | [paper](https://arxiv.org/pdf/1704.01212.pdf) | - | - |
-| GraphSAGE: Inductive Representation Learning on Large Graphs (NeurIPS'17) | [paper](https://arxiv.org/pdf/1706.02216.pdf) | - | - |
-| GAT: Graph Attention Networks (ICLR'18) | [paper](https://arxiv.org/pdf/1710.10903.pdf) | - | [blog](https://ok-lab.tistory.com/225?category=940094) |
-| GCMC: Graph Convolutional Matrix Completion (KDD'18) | [paper](https://arxiv.org/pdf/1706.02263.pdf) | [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/GCMC/RecSys(GCMC).ipynb) | - |
-| SEAL: Link Prediction Based on Graph Neural Networks (NeurIPS'18) | [paper](https://papers.nips.cc/paper/2018/file/53f0d7c537d99b3824f0f99d62ea2428-Paper.pdf) | - | - |
-| JK-Net: Representation Learning on Graphs with Jumping Knowledge Networks | [paper](http://proceedings.mlr.press/v80/xu18c/xu18c.pdf)| - | -  |
-| LGCN: Large-Scale Learnable Graph Convolutional Networks (KDD'18) | [paper](https://arxiv.org/pdf/1808.03965.pdf) | - | - |
-| SGCN: Simplifying Graph Convolutional Networks (ICML'19)| [paper](http://proceedings.mlr.press/v97/wu19e/wu19e.pdf) | - | - |
-| GraphRec: Graph Neural Network for social Networks (WWW'19) | [paper](https://arxiv.org/pdf/1902.07243.pdf) | - | [blog](https://ok-lab.tistory.com/226) |
-| SGC: Simplifying Graph Convolutional Networks (PMLR'19) | [paper](https://arxiv.org/pdf/1902.07153.pdf) | [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/SGC/models.py) | [blog](https://ok-lab.tistory.com/224) |
-| APPNP: Predict then Propagate: Graph Neural Networks meet Personalized PageRank (ICLR'19)| [paper](https://arxiv.org/pdf/1810.05997.pdf) | - | - |
-| Diffusion Improves Graph Learning (NeurIPS'19) | [paper](https://arxiv.org/pdf/1911.05485.pdf) | - | - |
-| GNNExplainer: Generating Explanations for Graph Neural Networks (NeurIPS'19) | [paper](https://arxiv.org/pdf/1903.03894.pdf) | - | - |
-| DeepGCNs: Can GCNs Go as Deep as CNNs? (ICCV'19) | [paper](https://arxiv.org/pdf/1904.03751.pdf) | - | - |
-| KGCN: Knowledge Graph Convolutional Networks for Recommender (WWW'19) | [paper](https://arxiv.org/pdf/1904.12575.pdf) | - | - |
-| NDLS: Node Dependent Local Smoothing for Scalable Graph Learning (NeurIPS'21) | [paper](https://proceedings.neurips.cc/paper/2021/file/a9eb812238f753132652ae09963a05e9-Paper.pdf) | - | - |
-| GemNet: Universal Directional Graph Neural Networks for Molecules (NeurIPS'21) | [paper](https://arxiv.org/pdf/2106.08903.pdf) | - | - |
-| Model Degradation Hinders Deep Graph Neural Networks (KDD'22) | [paper](https://arxiv.org/pdf/2206.04361.pdf) | - | - |
-| TokenGT: Pure Transformers are Powerful Graph Learners | [paper](https://arxiv.org/pdf/2207.02505.pdf) | - | - |
+| ChebNet: Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering (NeurIPS'16) | [paper](https://arxiv.org/pdf/1606.09375.pdf) | - |
+| GCN: Semi-supervised Classification with Graph Convolutional Networks (ICLR'17) | [paper](https://arxiv.org/pdf/1609.02907.pdf)              | [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/GraphConv/Implementation.ipynb) |
+| MPNN: Neural Message Passing for Quantum Chemistry (PMLR'17) | [paper](https://arxiv.org/pdf/1704.01212.pdf) | - |
+| GraphSAGE: Inductive Representation Learning on Large Graphs (NeurIPS'17) | [paper](https://arxiv.org/pdf/1706.02216.pdf) | - |
+| GAT: Graph Attention Networks (ICLR'18) | [paper](https://arxiv.org/pdf/1710.10903.pdf) | - |
+| GCMC: Graph Convolutional Matrix Completion (KDD'18) | [paper](https://arxiv.org/pdf/1706.02263.pdf) | [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/GCMC/RecSys(GCMC).ipynb) |
+| SEAL: Link Prediction Based on Graph Neural Networks (NeurIPS'18) | [paper](https://papers.nips.cc/paper/2018/file/53f0d7c537d99b3824f0f99d62ea2428-Paper.pdf) | - |
+| JK-Net: Representation Learning on Graphs with Jumping Knowledge Networks | [paper](http://proceedings.mlr.press/v80/xu18c/xu18c.pdf)| - |
+| LGCN: Large-Scale Learnable Graph Convolutional Networks (KDD'18) | [paper](https://arxiv.org/pdf/1808.03965.pdf) | - |
+| SGCN: Simplifying Graph Convolutional Networks (ICML'19)| [paper](http://proceedings.mlr.press/v97/wu19e/wu19e.pdf) | - |
+| GraphRec: Graph Neural Network for social Networks (WWW'19) | [paper](https://arxiv.org/pdf/1902.07243.pdf) | - |
+| SGC: Simplifying Graph Convolutional Networks (PMLR'19) | [paper](https://arxiv.org/pdf/1902.07153.pdf) | [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/SGC/models.py) |
+| APPNP: Predict then Propagate: Graph Neural Networks meet Personalized PageRank (ICLR'19)| [paper](https://arxiv.org/pdf/1810.05997.pdf) | - |
+| Diffusion Improves Graph Learning (NeurIPS'19) | [paper](https://arxiv.org/pdf/1911.05485.pdf) | - |
+| GNNExplainer: Generating Explanations for Graph Neural Networks (NeurIPS'19) | [paper](https://arxiv.org/pdf/1903.03894.pdf) | - |
+| DeepGCNs: Can GCNs Go as Deep as CNNs? (ICCV'19) | [paper](https://arxiv.org/pdf/1904.03751.pdf) | - |
+| KGCN: Knowledge Graph Convolutional Networks for Recommender (WWW'19) | [paper](https://arxiv.org/pdf/1904.12575.pdf) | - |
+| NDLS: Node Dependent Local Smoothing for Scalable Graph Learning (NeurIPS'21) | [paper](https://proceedings.neurips.cc/paper/2021/file/a9eb812238f753132652ae09963a05e9-Paper.pdf) | - |
+| GemNet: Universal Directional Graph Neural Networks for Molecules (NeurIPS'21) | [paper](https://arxiv.org/pdf/2106.08903.pdf) | - |
+| Model Degradation Hinders Deep Graph Neural Networks (KDD'22) | [paper](https://arxiv.org/pdf/2206.04361.pdf) | - |
+| TokenGT: Pure Transformers are Powerful Graph Learners | [paper](https://arxiv.org/pdf/2207.02505.pdf) | - |
 
 ***Recommender Systems***
 | Name | Paper Link |
