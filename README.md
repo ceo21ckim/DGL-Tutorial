@@ -60,18 +60,18 @@ jupyter notebook --ip=0.0.0.0 --port=8888 --allow-root
 | :----: | :---- |:--------:|:--------:|
 | DGCN | Diffusion-convolutional neural networks (NeurIPS'16) | [paper](https://arxiv.org/pdf/1511.02136.pdf) |
 |ChebNet | Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering (NeurIPS'16) | [paper](https://arxiv.org/pdf/1606.09375.pdf) | - |
-| GCN | Semi-supervised Classification with Graph Convolutional Networks (ICLR'17) | [paper](https://arxiv.org/pdf/1609.02907.pdf)              | [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/GraphConv/Implementation.ipynb) |
+| GCN | Semi-supervised Classification with Graph Convolutional Networks (ICLR'17) | [paper](https://arxiv.org/pdf/1609.02907.pdf)              | - |
 | R-GCN | Modeling Relational Data with Graph Convolutional Networks (ESWC'17) | [paper](https://arxiv.org/pdf/1703.06103.pdf) | - |
 | MPNN | Neural Message Passing for Quantum Chemistry (PMLR'17) | [paper](https://arxiv.org/pdf/1704.01212.pdf) | - |
 | GraphSAGE | Inductive Representation Learning on Large Graphs (NeurIPS'17) | [paper](https://arxiv.org/pdf/1706.02216.pdf) | - |
 | GAT | Graph Attention Networks (ICLR'18) | [paper](https://arxiv.org/pdf/1710.10903.pdf) | - |
-| GCMC | Graph Convolutional Matrix Completion (KDD'18) | [paper](https://arxiv.org/pdf/1706.02263.pdf) | [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/GCMC/RecSys(GCMC).ipynb) |
+| GCMC | Graph Convolutional Matrix Completion (KDD'18) | [paper](https://arxiv.org/pdf/1706.02263.pdf) | - |
 | SEAL | Link Prediction Based on Graph Neural Networks (NeurIPS'18) | [paper](https://papers.nips.cc/paper/2018/file/53f0d7c537d99b3824f0f99d62ea2428-Paper.pdf) | - |
 | JK-Net | Representation Learning on Graphs with Jumping Knowledge Networks | [paper](http://proceedings.mlr.press/v80/xu18c/xu18c.pdf)| - |
 | LGCN | Large-Scale Learnable Graph Convolutional Networks (KDD'18) | [paper](https://arxiv.org/pdf/1808.03965.pdf) | - |
 | SGCN | Simplifying Graph Convolutional Networks (ICML'19)| [paper](http://proceedings.mlr.press/v97/wu19e/wu19e.pdf) | - |
 | GraphRec | Graph Neural Network for social Networks (WWW'19) | [paper](https://arxiv.org/pdf/1902.07243.pdf) | - |
-| SGC | Simplifying Graph Convolutional Networks (PMLR'19) | [paper](https://arxiv.org/pdf/1902.07153.pdf) | [code](https://github.com/ceo21ckim/DGL-tutorial/blob/main/models/SGC/models.py) |
+| SGC | Simplifying Graph Convolutional Networks (PMLR'19) | [paper](https://arxiv.org/pdf/1902.07153.pdf) | - |
 | APPNP | Predict then Propagate: Graph Neural Networks meet Personalized PageRank (ICLR'19)| [paper](https://arxiv.org/pdf/1810.05997.pdf) | - |
 | DGC | Diffusion Improves Graph Learning (NeurIPS'19) | [paper](https://arxiv.org/pdf/1911.05485.pdf) | - |
 | GNNExplainer | GNNExplainer: Generating Explanations for Graph Neural Networks (NeurIPS'19) | [paper](https://arxiv.org/pdf/1903.03894.pdf) | - |
