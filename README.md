@@ -48,7 +48,7 @@ jupyter notebook --ip=0.0.0.0 --port=8888 --allow-root
 - [Introduction](https://github.com/ceo21ckim/DGL-tutorial/tree/main/Basic_Tasks/1.Introduction)
 - [Node Classification](https://github.com/ceo21ckim/DGL-tutorial/tree/main/Basic_Tasks/2.Node_Classification)
 - [Link Prediction](https://github.com/ceo21ckim/DGL-tutorial/tree/main/Basic_Tasks/3.Link_Prediction)
-- [GNN](https://github.com/ceo21ckim/DGL-tutorial/tree/main/Basic_Tasks/0.Others)
+- [Graph Classification](https://github.com/ceo21ckim/DGL-tutorial/tree/main/Basic_Tasks/4.Graph_Classification)
 - [Message Passing](https://github.com/ceo21ckim/DGL-tutorial/tree/main/Basic_Tasks/0.Others)
 
 
