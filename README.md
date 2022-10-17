@@ -1,9 +1,15 @@
 
 # DGL
 
-...
-
 Deep Graph Library(DGL)을 공부 목적으로 정리하고 있습니다. 본 코드는 `Pytorch`기반으로 작성되어 있습니다. [DGL 공식 문서](https://docs.dgl.ai/index.html#getting-started), [KDD20](https://github.com/dglai/KDD20-Hands-on-Tutorial), [WWW20](https://github.com/dglai/WWW20-Hands-on-Tutorial) 그리고 [WSDM21](https://github.com/dglai/WSDM21-Hands-on-Tutorial)을 참고하였습니다. 공식 문서 내에 활용가능한 모델은 공식 문서 및 제안한 논문을 기반으로 작성했습니다. 
+
+# Outline
+1. [Install DGL](#Install-DGL)
+2. [Basic Tasks](#Basic-Tasks)
+3. [CS224W](https://github.com/ceo21ckim/DGL-tutorial/tree/main/CS224W)
+4. [Conference Paper](https://github.com/ceo21ckim/DGL-tutorial/tree/main/Conference_Paper)
+5. [Conference Slide](https://github.com/ceo21ckim/DGL-tutorial/tree/main/Conference_Slides)
+6. [Models](#Models)
 
 ## Install DGL
 
@@ -55,9 +61,8 @@ jupyter notebook --ip=0.0.0.0 --port=8888 --allow-root
 
 
 
-## Paper ##
+## Models
 
-**Model**
 | Name | Title | Paper Link | Code Link |
 | :----: | :---- |:--------:|:--------:|
 | DGCN | Diffusion-convolutional neural networks (NeurIPS'16) | [paper](https://arxiv.org/pdf/1511.02136.pdf) |
