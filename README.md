@@ -99,6 +99,7 @@ jupyter notebook --ip=0.0.0.0 --port=8888 --allow-root
 | MixGCF: An Improved Training Method for Graph Neural Network-based Recommender Systems (KDD'21) | [paper](https://dl.acm.org/doi/pdf/10.1145/3447548.3467408) |
 | UltraGCN: Ultra Simplification of Graph Convolutional Networks for Recommendation (CIKM'21) | [paper](https://dl.acm.org/doi/pdf/10.1145/3459637.3482291) |
 | Self-supervised Learning for Large-scale Item Recommendations (CIKM'21) | [paper](https://dl.acm.org/doi/pdf/10.1145/3459637.3481952) |
+| BUIR: Bootstrapping User and Item Representations for One-Class Collaborative Filtering (SIGIR’21)| [paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3462935)|
 | SGL: Self-supervised Graph Learning for Recommendation (SIGIR'21) | [paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3462862) |
 | Are Graph Augmentations Necessary?: Simple Graph Contrastive Learning for Recommendation (SIGIR'22) | [paper](https://dl.acm.org/doi/pdf/10.1145/3477495.3531937) |
 
