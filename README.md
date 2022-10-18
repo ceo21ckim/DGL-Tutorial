@@ -76,7 +76,6 @@ jupyter notebook --ip=0.0.0.0 --port=8888 --allow-root
 | SEAL | Link Prediction Based on Graph Neural Networks (NeurIPS'18) | [paper](https://papers.nips.cc/paper/2018/file/53f0d7c537d99b3824f0f99d62ea2428-Paper.pdf) | - |
 | JK-Net | Representation Learning on Graphs with Jumping Knowledge Networks | [paper](http://proceedings.mlr.press/v80/xu18c/xu18c.pdf)| - |
 | LGCN | Large-Scale Learnable Graph Convolutional Networks (KDD'18) | [paper](https://arxiv.org/pdf/1808.03965.pdf) | - |
-| SGCN | Simplifying Graph Convolutional Networks (ICML'19)| [paper](http://proceedings.mlr.press/v97/wu19e/wu19e.pdf) | - |
 | GraphRec | Graph Neural Network for social Networks (WWW'19) | [paper](https://arxiv.org/pdf/1902.07243.pdf) | - |
 | SGC | Simplifying Graph Convolutional Networks (PMLR'19) | [paper](https://arxiv.org/pdf/1902.07153.pdf) | - |
 | APPNP | Predict then Propagate: Graph Neural Networks meet Personalized PageRank (ICLR'19)| [paper](https://arxiv.org/pdf/1810.05997.pdf) | - |
