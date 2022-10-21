@@ -9,6 +9,7 @@ This Repository is organizing of accepted paper at the Conference such as `SIGIR
 - [WSDM 2022](#WSDM-2022)
 - [CVPR 2022](#CVPR-2022)
 - [ICLR 2022](#ICLR-2022)
+- [CIKM 2022](#CIKM-2022)
 
 
 ## SIGIR 2022
@@ -257,18 +258,50 @@ and its application to Instance Segmentation](https://openaccess.thecvf.com/cont
 - [GreaseLM: Graph REASoning Enhanced Language Models](https://openreview.net/pdf?id=41e9o6cQPj)
 - [TAMP-S2GCNets: Coupling Time-Aware Multipersistence Knowledge Representation with Spatio-Supra Graph Convolutional Networks for Time-Series Forecasting](https://openreview.net/pdf?id=wv6g8fWLX2q)
 
+## CIKM 2022
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- [KRAF: A Flexible Advertising Framework using Knowledge Graph-Enriched Multi-Agent Reinforcement Learning](https://dl.acm.org/doi/pdf/10.1145/3511808.3557373)
+- [Memory Graph with Message Rehearsal for Multi-Turn Dialogue Generation](https://dl.acm.org/doi/pdf/10.1145/3511808.3557392)
+- [Towards Self-supervised Learning on Graphs with Heterophily](https://dl.acm.org/doi/pdf/10.1145/3511808.3557478)
+- [GCF-RD: A Graph-based Contrastive Framework for Semi-Supervised Learning on Relational Databases](https://dl.acm.org/doi/pdf/10.1145/3511808.3557331)
+- [Explainable Link Prediction in Knowledge Hypergraphs](https://dl.acm.org/doi/pdf/10.1145/3511808.3557316)
+- [Finding Heterophilic Neighbors via Confidence-based Subgraph Matching for Semi-supervised Node Classification](https://dl.acm.org/doi/pdf/10.1145/3511808.3557324)
+- [Inductive Knowledge Graph Reasoning for Multi-batch Emerging Entities](https://dl.acm.org/doi/pdf/10.1145/3511808.3557361)
+- [Higher-order Clustering and Pooling for Graph Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3511808.3557353)
+- [MGMAE: Molecular Representation Learning by Reconstructing Heterogeneous Graphs with A High Mask Ratio](https://dl.acm.org/doi/pdf/10.1145/3511808.3557395)
+- [Modeling Dynamic Heterogeneous Graph and Node Importance for Future Citation Prediction](https://dl.acm.org/doi/pdf/10.1145/3511808.3557398)
+- [ITSM-GCN: Informative Training Sample Mining for Graph Convolutional Network-based Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3511808.3557368)
+- [Evolutionary Preference Learning via Graph Nested GRU ODE for Session-based Recommendation](https://dl.acm.org/doi/pdf/10.1145/3511808.3557314)
+- [Multi-Aggregator Time-Warping Heterogeneous Graph Neural Network for Personalized Micro-Video Recommendation](https://dl.acm.org/doi/pdf/10.1145/3511808.3557403)
+- [Cross-Domain Aspect Extraction using Transformers Augmented with Knowledge Graphs](https://dl.acm.org/doi/pdf/10.1145/3511808.3557275)
+- [Discovering Fine-Grained Semantics in Knowledge Graph Relations](https://arxiv.org/pdf/2202.08917.pdf)
+- [Extracting Drug-drug Interactions from Biomedical Texts using Knowledge Graph Embeddings and Multi-focal Loss](https://dl.acm.org/doi/pdf/10.1145/3511808.3557318)
+- [X-GOAL: Multiplex Heterogeneous Graph Prototypical Contrastive Learning](https://dl.acm.org/doi/pdf/10.1145/3511808.3557490)
+- [Contrastive Representation Learning for Conversational Question Answering over Knowledge Graphs](https://dl.acm.org/doi/pdf/10.1145/3511808.3557267)
+- [SWAG-Net: Semantic Word-Aware Graph Network for Temporal Video Grounding](https://dl.acm.org/doi/pdf/10.1145/3511808.3557463)
+- [Relational Self-Supervised Learning on Graphs](https://dl.acm.org/doi/pdf/10.1145/3511808.3557428)
+- [Automated Spatio-Temporal Synchronous Modeling with Multiple Graphs for Traffic Prediction](https://dl.acm.org/doi/pdf/10.1145/3511808.3557243)
+- [MDGCF: Multi-Dependency Graph Collaborative Filtering with Neighborhood- and Homogeneous-level Dependencies](https://dl.acm.org/doi/pdf/10.1145/3511808.3557390)
+- [Heterogeneous Graph Attention Network for Drug-Target Interaction Prediction](https://dl.acm.org/doi/pdf/10.1145/3511808.3557346)
+- [Spatiotemporal-aware Session-based Recommendation with Graph Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3511808.3557458)
+- [HeGA: Heterogeneous Graph Aggregation Network for Trajectory Prediction in High-Density Traffic](https://dl.acm.org/doi/pdf/10.1145/3511808.3557345)
+- [I Know What You Do Not Know: Knowledge Graph Embedding via Co-distillation Learning](https://dl.acm.org/doi/pdf/10.1145/3511808.3557355)
+- [Social Graph Transformer Networks for Pedestrian Trajectory Prediction in Complex Social Scenarios](https://dl.acm.org/doi/pdf/10.1145/3511808.3557455)
+- [Are Gradients on Graph Structure Reliable in Gray-box Attacks?](https://dl.acm.org/doi/pdf/10.1145/3511808.3557238)
+- [DEMO: Disentangled Molecular Graph Generation via an Invertible Flow Model](https://dl.acm.org/doi/pdf/10.1145/3511808.3557217)
+- [Hierarchical Spatio-Temporal Graph Neural Networks for Pandemic Forecasting](https://dl.acm.org/doi/pdf/10.1145/3511808.3557350)
+- [Adaptive Re-Ranking with a Corpus Graph](https://dl.acm.org/doi/pdf/10.1145/3511808.3557231)
+- [Automatic Meta-Path Discovery for Effective Graph-Based Recommendation](https://dl.acm.org/doi/pdf/10.1145/3511808.3557244)
+- [SVD-GCN: A Simplified Graph Convolution Paradigm for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3511808.3557462)
+- [Malicious Repositories Detection with Adversarial Heterogeneous Graph Contrastive Learning](https://dl.acm.org/doi/pdf/10.1145/3511808.3557384)
+- [Reinforced Continual Learning for Graphs](https://dl.acm.org/doi/pdf/10.1145/3511808.3557427)
+- [From Known to Unknown: Quality-aware Self-improving Graph Neural Network For Open Set Social Event Detection](https://dl.acm.org/doi/pdf/10.1145/3511808.3557329)
+- [A Self-supervised Riemannian GNN with Time Varying Curvature for Temporal Graph Learning](https://dl.acm.org/doi/pdf/10.1145/3511808.3557222)
+- [Position-aware Structure Learning for Graph Topology-imbalance by Relieving Under-reaching and Over-squashing](https://dl.acm.org/doi/pdf/10.1145/3511808.3557419)
+- [Temporality- and Frequency-aware Graph Contrastive Learning for Temporal Network](https://dl.acm.org/doi/pdf/10.1145/3511808.3557469)
+- [Interpretable Emotion Analysis Based on Knowledge Graph and OCC Model](https://dl.acm.org/doi/pdf/10.1145/3511808.3557365)
+- [AdaGCL: Adaptive Subgraph Contrastive Learning to Generalize Large-scale Graph Training](https://dl.acm.org/doi/pdf/10.1145/3511808.3557228)
+- [Imbalanced Graph Classification via Graph-of-Graph Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3511808.3557356)
+- [Dynamic Hypergraph Learning for Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3511808.3557301)
+- [Taxonomy-Enhanced Graph Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3511808.3557467)
+- [Semi-supervised Hypergraph Node Classification on Hypergraph Line Expansion](https://dl.acm.org/doi/pdf/10.1145/3511808.3557447)
