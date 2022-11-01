@@ -1,6 +1,8 @@
 
 ## CS224W
 
+..
+
 **Lecture 1**
 
 - [Why Graphs](https://www.youtube.com/watch?v=QUO-HQ44EDc&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=1)
