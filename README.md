@@ -119,6 +119,7 @@ jupyter notebook --ip=0.0.0.0 --port=8888 --allow-root
 | A Survey on Influence Maximization in a Social Network (2018) | [paper](https://arxiv.org/pdf/1808.05502.pdf) |
 | Random Graph Modeling: A Survey of the Concepts (2019) | [paper](https://dl.acm.org/doi/pdf/10.1145/3369782) |
 | A Comprehensive Survey on Graph Neural Networks (2019) | [paper](https://arxiv.org/pdf/1901.00596.pdf) |
+| Graph Neural Networks in Recommender Systems: A Survey (ACM, 2022) | [paper](https://arxiv.org/abs/2011.02260) |
 
 ***Embedding***
 | Name | Paper Link |
