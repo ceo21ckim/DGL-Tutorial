@@ -86,6 +86,7 @@ jupyter notebook --ip=0.0.0.0 --port=8888 --allow-root
 | GemNet | Universal Directional Graph Neural Networks for Molecules (NeurIPS'21) | [paper](https://arxiv.org/pdf/2106.08903.pdf) | - |
 | AIR | Model Degradation Hinders Deep Graph Neural Networks (KDD'22) | [paper](https://arxiv.org/pdf/2206.04361.pdf) | - |
 | TokenGT | Pure Transformers are Powerful Graph Learners (NeurIPS'22) | [paper](https://arxiv.org/pdf/2207.02505.pdf) | - |
+| PatchGT | PatchGT: Transformer over Non-trainable Clusters for Learning Graph Representations (LoG'22) | [paper](https://arxiv.org/pdf/2211.14425.pdf) | [code](https://github.com/tufts-ml/PatchGT) |
 
 ***Recommender Systems***
 | Name | Paper Link |
