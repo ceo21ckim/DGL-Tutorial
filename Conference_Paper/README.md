@@ -13,6 +13,7 @@ This Repository is organizing of accepted paper at the Conference such as `SIGIR
 - [CVPR 2022](#CVPR-2022)
 - [ICLR 2022](#ICLR-2022)
 - [CIKM 2022](#CIKM-2022)
+- [LoG 2022](#LoG-2022)
 
 
 ## SIGIR 2022
@@ -308,3 +309,24 @@ and its application to Instance Segmentation](https://openaccess.thecvf.com/cont
 - [Dynamic Hypergraph Learning for Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3511808.3557301)
 - [Taxonomy-Enhanced Graph Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3511808.3557467)
 - [Semi-supervised Hypergraph Node Classification on Hypergraph Line Expansion](https://dl.acm.org/doi/pdf/10.1145/3511808.3557447)
+
+
+## LoG 2022
+
+- [Influence-Based Mini-Batching for Graph Neural Networks](https://openreview.net/pdf?id=b9g0vxzYa_)
+- [You Can Have Better Graph Neural Networks by Not Training Weights at All: Finding Untrained GNNs Tickets](https://openreview.net/pdf?id=dF6aEW3_62O)
+- [Graph Learning Indexer: A Contributor-Friendly and Metadata-Rich Platform for Graph Learning Benchmarks](https://openreview.net/pdf?id=ZBsxA6_gp3)
+- [GARNET: Reduced-Rank Topology Learning for Robust and Scalable Graph Neural Networks](https://openreview.net/pdf?id=kvwWjYQtmw)
+- [Transductive Linear Probing: A Novel Framework for Few-Shot Node Classification](https://openreview.net/pdf?id=dK8vOIBENa3)
+- [Neighborhood-aware Scalable Temporal Network Representation Learning](https://openreview.net/pdf?id=EPUtNe7a9ta)
+- [Shortest Path Networks for Graph Property Prediction](https://openreview.net/pdf?id=mWzWvMxuFg1)
+- [An Analysis of Virtual Nodes in Graph Neural Networks for Link Prediction (Extended Abstract)](https://openreview.net/pdf?id=dI6KBKNRp7)
+- [PatchGT: Transformer over Non-trainable Clusters for Learning Graph Representations](https://openreview.net/pdf?id=Vbfr1jiMxYS)
+- [Graph-Time Convolutional Autoencoders](https://openreview.net/pdf?id=2HqKwHaBwv)
+- [Revisiting Embeddings for Graph Neural Networks](https://openreview.net/pdf?id=Ri2dzVt_a1h)
+- [Global-Local Graph Neural Networks for Node-Classification](https://openreview.net/pdf?id=YCgwkDo56q)
+- [Collaboration-Aware Graph Neural Network for Recommender Systems](https://openreview.net/pdf?id=O7msz8Ou7o)
+- [Higher-Order Patterns Reveal Causal Temporal Scales in Time Series Network Data](https://openreview.net/pdf?id=aI0-qQsFCHV)
+- [MSGNN: A Spectral Graph Neural Network Based on a Novel Magnetic Signed Laplacian](https://openreview.net/pdf?id=KUGwmnSdPV3)
+- [A Survey on Deep Graph Generation: Methods and Applications](https://openreview.net/pdf?id=Im8G9R1boQi)
+- [FakeEdge: Alleviate Dataset Shift in Link Prediction](https://openreview.net/pdf?id=QDN0jSXuvtX)
