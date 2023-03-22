@@ -87,7 +87,7 @@ jupyter notebook --ip=0.0.0.0 --port=8888 --allow-root
 | AIR | Model Degradation Hinders Deep Graph Neural Networks (KDD'22) | [paper](https://arxiv.org/pdf/2206.04361.pdf) | - |
 | TokenGT | Pure Transformers are Powerful Graph Learners (NeurIPS'22) | [paper](https://arxiv.org/pdf/2207.02505.pdf) | - |
 | PatchGT | PatchGT: Transformer over Non-trainable Clusters for Learning Graph Representations (LoG'22) | [paper](https://arxiv.org/pdf/2211.14425.pdf) | [code](https://github.com/tufts-ml/PatchGT) |
-| Graphair | Learning Fair Graph Representations via Automated Data Augmentations | [paper](https://openreview.net/pdf?id=1_OGWcP1s9w) | - |
+| Graphair | Learning Fair Graph Representations via Automated Data Augmentations (ICLR'23) | [paper](https://openreview.net/pdf?id=1_OGWcP1s9w) | - |
 
 ***Recommender Systems***
 | Name | Paper Link |
