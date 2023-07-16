@@ -78,6 +78,7 @@ jupyter notebook --ip=0.0.0.0 --port=8888 --allow-root
 | LGCN | Large-Scale Learnable Graph Convolutional Networks (KDD'18) | [paper](https://arxiv.org/pdf/1808.03965.pdf) | - |
 | GraphRec | Graph Neural Network for social Networks (WWW'19) | [paper](https://arxiv.org/pdf/1902.07243.pdf) | - |
 | SGC | Simplifying Graph Convolutional Networks (PMLR'19) | [paper](https://arxiv.org/pdf/1902.07153.pdf) | - |
+| HAN | Heterogenous Graph Attention Networks (WWW'19) | [paper](https://dl.acm.org/doi/pdf/10.1145/3308558.3313562) | - | 
 | APPNP | Predict then Propagate: Graph Neural Networks meet Personalized PageRank (ICLR'19)| [paper](https://arxiv.org/pdf/1810.05997.pdf) | - |
 | DGC | Diffusion Improves Graph Learning (NeurIPS'19) | [paper](https://arxiv.org/pdf/1911.05485.pdf) | - |
 | GNNExplainer | GNNExplainer: Generating Explanations for Graph Neural Networks (NeurIPS'19) | [paper](https://arxiv.org/pdf/1903.03894.pdf) | - |
