@@ -31,7 +31,7 @@ docker build --tag [filename]:1.0 .
 
 ```
 # Docker version 2.0 or later.
-docker run --itd --runtime=nvidia --name dgl_tuto -p 8888:8888 -v C:\Users\Name\:/workspace dgl_tutorial:1.0 /bin/bash
+docker run -itd --runtime=nvidia --name dgl_tuto -p 8888:8888 -v C:\Users\Name\:/workspace dgl_tutorial:1.0 /bin/bash
 ```
 
 ```
