@@ -3,6 +3,7 @@
 Deep Graph Library(DGL)을 공부 목적으로 정리하고 있습니다. DGL-tutorial을 통해 그래프를 처음 접하시는 분들도 쉽게 작성할 수 있도록 도움을 주고자 `Pytorch`기반으로 작성하였습니다. [DGL 공식 문서](https://docs.dgl.ai/index.html#getting-started), [KDD20](https://github.com/dglai/KDD20-Hands-on-Tutorial), [WWW20](https://github.com/dglai/WWW20-Hands-on-Tutorial) 그리고 [WSDM21](https://github.com/dglai/WSDM21-Hands-on-Tutorial)을 참고하였습니다. 공식 문서 내에 활용가능한 모델은 공식 문서 및 제안한 논문을 기반으로 작성했습니다.
 
 
+
 # Outline
 1. [Install DGL](#Install-DGL)
 2. [Basic Tasks](#Basic-Tasks)
